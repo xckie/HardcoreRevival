@@ -25,7 +25,7 @@ public class HandlerRevival implements IMessageHandler<MessageRevival, IMessage>
 				float minDist = Float.MAX_VALUE;
 				EntityPlayer target = null;
 				for (EntityPlayer candidate : candidates) {
-					float dist = candidate.getDistanceToEntity(player);
+					float dist = candidate.getDistance(player);
 					if (dist < minDist) {
 						target = candidate;
 						minDist = dist;

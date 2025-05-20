@@ -55,7 +55,8 @@ public class RescueHandler {
                     abortRescue(event.player);
                 } else {
                     // Stop rescuing if the player is out of range
-                    float dist = event.player.getDistanceToEntity(revival.getRescueTarget());
+                    //float dist = event.player.getDistanceToEntity(revival.getRescueTarget());
+                    float dist = event.player.getDistance(revival.getRescueTarget());
                     if (dist > ModConfig.maxRescueDist) {
                         abortRescue(event.player);
                     } else {
@@ -110,7 +111,7 @@ public class RescueHandler {
                     newPlayer.experience = target.experience;
 
                     newPlayer.extinguish();
-                    newPlayer.setFlag(0, false); // burning flag
+                    newPlayer.setFire(0); // burning flag
 
                     newPlayer.setScore(target.getScore());
 
