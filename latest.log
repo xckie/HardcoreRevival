@@ -1,0 +1,1837 @@
+[05:06:29] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[05:06:29] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[05:06:29] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[05:06:29] [main/INFO]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[05:06:29] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at D:\Applications\CurseForge\Install\runtime\jre-legacy\windows-x64\jre-legacy
+[05:06:29] [main/INFO]: Searching D:\Applications\CurseForge\Instances\Last Days of Humanity\mods for mods
+[05:06:29] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in !Red-Core-MC-1.8-1.12-0.6-Dev-4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:29] [main/WARN]: The coremod dev.redstudio.redcore.RedCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:29] [main/WARN]: The coremod Red Core (dev.redstudio.redcore.RedCorePlugin) is not signed!
+[05:06:29] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [___MixinCompat-1.1-1.12.2___].jar
+[05:06:29] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _MixinBootstrap-1.1.0.jar
+[05:06:29] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _supermartijn642corelib-1.1.16a-forge-mc1.12.jar
+[05:06:29] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from `FermiumBooter-1.1.0.jar
+[05:06:29] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in AppleCore-mc1.12.2-3.4.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:29] [main/WARN]: The coremod AppleCore (squeek.applecore.AppleCore) is not signed!
+[05:06:29] [main/WARN]: The coremod Backpacked (com.mrcrayfish.backpacked.asm.BackpackedPlugin) is not signed!
+[05:06:29] [main/INFO]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[05:06:29] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from BHMenu-Forge-1.12.2-2.4.1.jar
+[05:06:29] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in biggerpacketsplz-since1.8-1.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:29] [main/WARN]: The coremod net.elnounch.mc.biggerpacketsplz.BiggerPacketsPlzCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:29] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-1.12.2-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:29] [main/WARN]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:29] [main/WARN]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[05:06:29] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CosmicLib-1.12.2-0.4.0.BETA.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:29] [main/WARN]: The coremod com.cosmicdan.cosmiclib.asm.FakeCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:29] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:29] [main/WARN]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:29] [main/WARN]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[05:06:29] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in DynamicLights-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:29] [main/WARN]: The coremod atomicstryker.dynamiclights.common.DLFMLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:29] [main/WARN]: The coremod DLFMLCorePlugin (atomicstryker.dynamiclights.common.DLFMLCorePlugin) is not signed!
+[05:06:29] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.3.jar
+[05:06:29] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from EntityCulling-1.12.2-6.4.3.jar
+[05:06:29] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from EntityDesyncFix-1.12.2-1.0.2.jar
+[05:06:29] [main/INFO]: Loading tweaker gg.essential.loader.stage0.EssentialSetupTweaker from Essential_1-3-6-2_forge_1-12-2.jar
+[05:06:29] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from fancymenu_forge_2.7.2_MC_1.12-1.12.2.jar
+[05:06:29] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in fermiumasm-5.23.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:29] [main/WARN]: The coremod FermiumASM (mirror.normalasm.core.NormalLoadingPlugin) is not signed!
+[05:06:29] [main/INFO]: FermiumASM is on the client-side.
+[05:06:29] [main/INFO]: FermiumASM is preparing and loading in mixins
+[05:06:30] [main/WARN]: Replacing CA Certs with an updated one...
+[05:06:30] [main/INFO]: Initializing StacktraceDeobfuscator...
+[05:06:30] [main/INFO]: Found MCP stable-39 method mappings: methods-stable_39.csv
+[05:06:30] [main/INFO]: Initialized StacktraceDeobfuscator.
+[05:06:30] [main/INFO]: Installing DeobfuscatingRewritePolicy...
+[05:06:30] [main/INFO]: Installed DeobfuscatingRewritePolicy.
+[05:06:30] [main/INFO]: FermiumASM enqueueing early mixins
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.devenv.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.internal.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.vanities.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.registries.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.stripitemstack.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.lockcode.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.recipes.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.misc_fluidregistry.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.forgefixes.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.capability.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.singletonevents.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.efficienthashing.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.crashes.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.fix_mc129057.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.priorities.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.bucket.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.rendering.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.datastructures_modelmanager.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.screenshot.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.ondemand_sprites.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.searchtree_vanilla.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.resolve_mc2071.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.fix_mc_skindownloading.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.fix_mc186052.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.vfix_bugfixes.json" for early mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumASM enqueueing late mixins
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.bakedquadsquasher.json" for late mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.modfixes_immersiveengineering.json" for late mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.modfixes_evilcraftcompat.json" for late mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.modfixes_ebwizardry.json" for late mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.modfixes_xu2.json" for late mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.searchtree_mod.json" for late mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.modfixes_astralsorcery.json" for late mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.capability_astralsorcery.json" for late mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumRegistryAPI supplied "mixins.modfixes_b3m.json" for late mixin enqueue, adding.
+[05:06:30] [main/INFO]: FermiumASM finished mixin enqueue
+[05:06:30] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:30] [main/WARN]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:30] [main/WARN]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[05:06:30] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from getittogetherdrops-1.12.2-v1.0.2.jar
+[05:06:30] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in HardcoreDarkness-MC1.12.2-2.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:30] [main/WARN]: The coremod lumien.hardcoredarkness.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:30] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:30] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:30] [main/WARN]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:30] [main/WARN]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
+[05:06:30] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in JEI-Utilities-1.12.2-0.2.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:30] [main/WARN]: The coremod com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:30] [main/WARN]: The coremod JeiUtilitiesLoadingPlugin (com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin) is not signed!
+[05:06:30] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from konkrete_forge_1.6.1_MC_1.12-1.12.2.jar
+[05:06:30] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from LDoH-Tweaks-1.12.2-1.1.16.jar
+[05:06:30] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in NotEnoughIDs-1.5.4.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:30] [main/WARN]: The coremod ru.fewizz.neid.asm.Plugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:30] [main/WARN]: The coremod Plugin (ru.fewizz.neid.asm.Plugin) is not signed!
+[05:06:30] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Nothirium-1.12.2-0.3.4-beta.jar
+[05:06:30] [main/WARN]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[05:06:30] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
+[05:06:30] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from particleculling-1.12.2-v1.4.3.jar
+[05:06:30] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in PhosphorCrashFix-1.12.2-1.0.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:30] [main/WARN]: The coremod PCF Core Mod (nathan.phosphorcrashfix.core.PCFCoreMod) is not signed!
+[05:06:30] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from RenderLib-1.12.2-1.3.4.jar
+[05:06:30] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Server-Pauser-1.12.2-1.0.0.jar
+[05:06:30] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Sledgehammer-1.12.2-2.0.26.jar
+[05:06:30] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
+[05:06:30] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Surge-1.12.2-2.0.77.jar
+[05:06:30] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in TenshiLib-1.12.2-1.2.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:30] [main/WARN]: The coremod TenshiCore (com.flemmli97.tenshilib.asm.ASMLoader) is not signed!
+[05:06:30] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from TF2-Stuff-Reloaded-1.12.2-1.7.3a.jar
+[05:06:30] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from The-Hordes-1.12.2-1.1.7.jar
+[05:06:30] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in TickrateChanger-1.0.14.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:30] [main/WARN]: The coremod me.guichaguri.tickratechanger.TickrateChanger does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:30] [main/WARN]: The coremod TickrateChanger (me.guichaguri.tickratechanger.TickrateChanger) is not signed!
+[05:06:30] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-1.12.2-0.2.6+build50-universal.jar
+[05:06:30] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[05:06:30] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[05:06:30] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/D:/Applications/CurseForge/Instances/Last%20Days%20of%20Humanity/mods/%5B___MixinCompat-1.1-1.12.2___%5D.jar Service=LaunchWrapper Env=CLIENT
+[05:06:30] [main/DEBUG]: Instantiating coremod class CoreModPlugin
+[05:06:30] [main/TRACE]: coremod named SuperMartijn642's Core Lib Plugin is loading
+[05:06:30] [main/DEBUG]: The coremod com.supermartijn642.core.coremod.CoreModPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:30] [main/WARN]: The coremod SuperMartijn642's Core Lib Plugin (com.supermartijn642.core.coremod.CoreModPlugin) is not signed!
+[05:06:30] [main/INFO]: Compatibility level set to JAVA_8
+[05:06:30] [main/DEBUG]: Added access transformer class com/supermartijn642/core/coremod/CoreLibAccessTransformer to enqueued access transformers
+[05:06:30] [main/DEBUG]: Enqueued coremod SuperMartijn642's Core Lib Plugin
+[05:06:30] [main/DEBUG]: Instantiating coremod class FermiumPlugin
+[05:06:30] [main/TRACE]: coremod named FermiumBooter is loading
+[05:06:30] [main/DEBUG]: The coremod fermiumbooter.FermiumPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:30] [main/WARN]: The coremod FermiumBooter (fermiumbooter.FermiumPlugin) is not signed!
+[05:06:30] [main/DEBUG]: Enqueued coremod FermiumBooter
+[05:06:30] [main/DEBUG]: Instantiating coremod class TransformLoader
+[05:06:30] [main/DEBUG]: The coremod org.orecruncher.dsurround.mixins.TransformLoader requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:30] [main/WARN]: The coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader) is not signed!
+[05:06:30] [main/DEBUG]: Enqueued coremod TransformLoader
+[05:06:30] [main/DEBUG]: Instantiating coremod class EntityCullingPlugin
+[05:06:30] [main/DEBUG]: The coremod meldexun.entityculling.asm.EntityCullingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:30] [main/WARN]: The coremod EntityCullingPlugin (meldexun.entityculling.asm.EntityCullingPlugin) is not signed!
+[05:06:30] [main/DEBUG]: Enqueued coremod EntityCullingPlugin
+[05:06:30] [main/DEBUG]: Instantiating coremod class EntityDesyncFixPlugin
+[05:06:30] [main/DEBUG]: The coremod meldexun.entity_desync_fix.asm.EntityDesyncFixPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:30] [main/WARN]: The coremod EntityDesyncFixPlugin (meldexun.entity_desync_fix.asm.EntityDesyncFixPlugin) is not signed!
+[05:06:30] [main/DEBUG]: Enqueued coremod EntityDesyncFixPlugin
+[05:06:30] [main/DEBUG]: Instantiating coremod class FMCore
+[05:06:30] [main/WARN]: The coremod de.keksuccino.fancymenu.core.FMCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:30] [main/WARN]: The coremod FMCore (de.keksuccino.fancymenu.core.FMCore) is not signed!
+[05:06:30] [main/DEBUG]: Enqueued coremod FMCore
+[05:06:30] [main/DEBUG]: Instantiating coremod class GITDLoadingPlugin
+[05:06:30] [main/DEBUG]: The coremod bl4ckscor3.mod.getittogetherdrops.GITDLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:30] [main/WARN]: The coremod GITDLoadingPlugin (bl4ckscor3.mod.getittogetherdrops.GITDLoadingPlugin) is not signed!
+[05:06:30] [main/DEBUG]: Enqueued coremod GITDLoadingPlugin
+[05:06:30] [main/DEBUG]: Instantiating coremod class KonkreteCore
+[05:06:30] [main/WARN]: The coremod de.keksuccino.konkrete.core.KonkreteCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:30] [main/WARN]: The coremod KonkreteCore (de.keksuccino.konkrete.core.KonkreteCore) is not signed!
+[05:06:30] [main/INFO]: [KONKRETE] LOADING CORE PLUGIN!
+[05:06:30] [main/INFO]: [de.keksuccino.konkrete.core.MixinConfigLoader:loadConfigs:29]: [KONKRETE] Loading Mixin Config: fancymenu.general.mixin.json
+[05:06:30] [main/DEBUG]: Enqueued coremod KonkreteCore
+[05:06:30] [main/DEBUG]: Instantiating coremod class NothiriumPlugin
+[05:06:30] [main/DEBUG]: The coremod meldexun.nothirium.mc.asm.NothiriumPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:30] [main/WARN]: The coremod NothiriumPlugin (meldexun.nothirium.mc.asm.NothiriumPlugin) is not signed!
+[05:06:30] [main/DEBUG]: Enqueued coremod NothiriumPlugin
+[05:06:30] [main/DEBUG]: Instantiating coremod class ParticleCullingLoadingPlugin
+[05:06:30] [main/DEBUG]: The coremod bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:30] [main/WARN]: The coremod ParticleCullingLoadingPlugin (bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin) is not signed!
+[05:06:30] [main/DEBUG]: Enqueued coremod ParticleCullingLoadingPlugin
+[05:06:30] [main/DEBUG]: Instantiating coremod class RenderLibPlugin
+[05:06:30] [main/DEBUG]: The coremod meldexun.renderlib.asm.RenderLibPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:30] [main/WARN]: The coremod RenderLibPlugin (meldexun.renderlib.asm.RenderLibPlugin) is not signed!
+[05:06:30] [main/DEBUG]: Enqueued coremod RenderLibPlugin
+[05:06:30] [main/DEBUG]: Instantiating coremod class SledgehammerLoadingPlugin
+[05:06:30] [main/TRACE]: coremod named Sledgehammer is loading
+[05:06:30] [main/DEBUG]: The coremod io.github.lxgaming.sledgehammer.launch.SledgehammerLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:30] [main/WARN]: The coremod Sledgehammer (io.github.lxgaming.sledgehammer.launch.SledgehammerLoadingPlugin) is not signed!
+[05:06:30] [main/DEBUG]: Enqueued coremod Sledgehammer
+[05:06:30] [main/DEBUG]: Instantiating coremod class MixinLoader
+[05:06:30] [main/TRACE]: coremod named SpartanWeaponry-MixinLoader is loading
+[05:06:30] [main/DEBUG]: The coremod com.oblivioussp.spartanweaponry.mixin.MixinLoader requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:30] [main/WARN]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[05:06:30] [main/DEBUG]: Enqueued coremod SpartanWeaponry-MixinLoader
+[05:06:30] [main/DEBUG]: Instantiating coremod class SurgeLoadingPlugin
+[05:06:30] [main/DEBUG]: The coremod net.darkhax.surge.core.SurgeLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:30] [main/DEBUG]: Found signing certificates for coremod SurgeLoadingPlugin (net.darkhax.surge.core.SurgeLoadingPlugin)
+[05:06:30] [main/DEBUG]: Found certificate d476d1b22b218a10d845928d1665d45fce301b27
+[05:06:30] [main/DEBUG]: Enqueued coremod SurgeLoadingPlugin
+[05:06:30] [main/DEBUG]: Instantiating coremod class PhosphorFMLLoadingPlugin
+[05:06:30] [main/DEBUG]: The coremod me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:30] [main/DEBUG]: Found signing certificates for coremod PhosphorFMLLoadingPlugin (me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin)
+[05:06:30] [main/DEBUG]: Found certificate f0387d288626cc2d937daa504e74af570c52a2f1
+[05:06:30] [main/DEBUG]: Enqueued coremod PhosphorFMLLoadingPlugin
+[05:06:30] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:30] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:30] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:30] [main/INFO]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[05:06:30] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:30] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:30] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:30] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:30] [main/INFO]: Loading tweak class name gg.essential.loader.stage0.EssentialSetupTweaker
+[05:06:31] [main/INFO]: Starting Essential Loader (stage2) version 1.6.5 (5f155e53084b6178706351daa6e243f9) [stable]
+[05:06:31] [main/WARN]: Found Surge. This mod includes signatures for its bundled Mixin and will explode if a different Mixin version (even a more recent one) is loaded.
+[05:06:31] [main/WARN]: Trying to work around the issue by re-launching which will ignore signatures.
+[05:06:31] [main/WARN]: 
+[05:06:31] [main/WARN]: 
+[05:06:31] [main/WARN]: 
+[05:06:31] [main/WARN]: ==================================================================================
+[05:06:31] [main/WARN]: Attempting re-launch to load the newer version instead.
+[05:06:31] [main/WARN]: 
+[05:06:31] [main/WARN]: If AND ONLY IF you know what you are doing, have fixed the issue manually and need
+[05:06:31] [main/WARN]: to suppress this behavior (did you really fix it then?), you can set the
+[05:06:31] [main/WARN]: "essential.loader.relaunch" system property to false.
+[05:06:31] [main/WARN]: ==================================================================================
+[05:06:31] [main/WARN]: 
+[05:06:31] [main/WARN]: 
+[05:06:31] [main/WARN]: 
+[05:06:31] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[05:06:31] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[05:06:31] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[05:06:31] [main/DEBUG]: Injecting tracing printstreams for STDOUT/STDERR.
+[05:06:31] [main/INFO]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[05:06:31] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at D:\Applications\CurseForge\Install\runtime\jre-legacy\windows-x64\jre-legacy
+[05:06:31] [main/DEBUG]: Java classpath at launch is:
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2860\forge-1.12.2-14.23.5.2860.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\ow2\asm\asm-debug-all\5.2\asm-debug-all-5.2.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2_mc\scala-continuations-library_2.11-1.0.2_mc.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\scala-continuations-plugin_2.11.1-1.0.2_mc.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\google\guava\guava\21.0\guava-21.0.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\versions\forge-14.23.5.2860\forge-14.23.5.2860.jar
+[05:06:31] [main/DEBUG]: Java library path at launch is:
+[05:06:31] [main/DEBUG]:     D:\Applications\CurseForge\Install\bin\8ee502e5a0c04f2c00bf940e03208a224cb9d467
+[05:06:31] [main/DEBUG]: Determined Minecraft Libraries Root: D:\Applications\CurseForge\Install\libraries
+[05:06:31] [main/DEBUG]: Cleaning up mods folder: D:\Applications\CurseForge\Instances\Last Days of Humanity\mods
+[05:06:31] [main/DEBUG]: Examining file: !Red-Core-MC-1.8-1.12-0.6-Dev-4.jar
+[05:06:31] [main/DEBUG]: Examining file: AIImprovements-1.12-0.0.1b3.jar
+[05:06:31] [main/DEBUG]: Examining file: animania-1.12.2-base-2.0.3.28.jar
+[05:06:31] [main/DEBUG]: Examining file: animania-1.12.2-extra-1.0.2.28.jar
+[05:06:31] [main/DEBUG]: Examining file: animania-1.12.2-farm-1.0.2.28.jar
+[05:06:31] [main/DEBUG]: Examining file: AppleCore-mc1.12.2-3.4.0.jar
+[05:06:31] [main/DEBUG]: Examining file: AppleSkin-mc1.12-1.0.14.jar
+[05:06:31] [main/DEBUG]: Examining file: Atlas-Lib-1.12.2-1.1.5a.jar
+[05:06:31] [main/DEBUG]: Examining file: AttributeFix-Forge-1.12.2-1.0.12.jar
+[05:06:31] [main/DEBUG]: Examining file: backpacked-1.4.3-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining file: BadMobs-1.12.2-1.1.40.jar
+[05:06:31] [main/DEBUG]: Examining file: BetterFps-1.4.8.jar
+[05:06:31] [main/DEBUG]: Examining file: BHMenu-Forge-1.12.2-2.4.1.jar
+[05:06:31] [main/DEBUG]: Examining file: BiblioCraft[v2.4.6][MC1.12.2].jar
+[05:06:31] [main/DEBUG]: Examining file: biggerpacketsplz-since1.8-1.2.jar
+[05:06:31] [main/DEBUG]: Examining file: BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar
+[05:06:31] [main/DEBUG]: Examining file: BiomeTweaker-1.12.2-3.2.369.jar
+[05:06:31] [main/DEBUG]: Examining file: blockgravity-2.0.5.jar
+[05:06:31] [main/DEBUG]: Examining file: Bookshelf-1.12.2-2.3.590.jar
+[05:06:31] [main/DEBUG]: Examining file: buildcraft-all-7.99.24.8.jar
+[05:06:31] [main/DEBUG]: Examining file: car-1.12.2-2.0.1.jar
+[05:06:31] [main/DEBUG]: Examining file: carryon-1.12.2-1.12.7.23.jar
+[05:06:31] [main/DEBUG]: Examining file: Chunk Pregenerator-V1.12-2.5.7.jar
+[05:06:31] [main/DEBUG]: Examining file: ChunkAnimator-1.12.2-1.2.1.jar
+[05:06:31] [main/DEBUG]: Examining file: collective-1.12.2-3.0.jar
+[05:06:31] [main/DEBUG]: Examining file: Controlling-3.0.12.3.jar
+[05:06:31] [main/DEBUG]: Examining file: CookingForBlockheads_1.12.2-6.5.0.jar
+[05:06:31] [main/DEBUG]: Examining file: coroutil-1.12.1-1.2.37.jar
+[05:06:31] [main/DEBUG]: Examining file: CosmicLib-1.12.2-0.4.0.BETA.jar
+[05:06:31] [main/DEBUG]: Examining file: CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar
+[05:06:31] [main/DEBUG]: Examining file: CraftTweaker2-1.12-4.1.20.690.jar
+[05:06:31] [main/DEBUG]: Examining file: CreativeCore_v1.10.71_mc1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining file: DefaultWorldGenerator-port-1.12-2.3.jar
+[05:06:31] [main/DEBUG]: Examining file: deuf-1.1-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining file: Ding-1.12.2-1.0.2.jar
+[05:06:31] [main/DEBUG]: Examining file: DynamicLights-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining file: DynamicSurroundings-1.12.2-3.6.3.jar
+[05:06:31] [main/DEBUG]: Examining file: EnchantmentDescriptions-1.12.2-1.1.15.jar
+[05:06:31] [main/DEBUG]: Examining file: energyconverters_1.12.2-1.3.7.30.jar
+[05:06:31] [main/DEBUG]: Examining file: EnhancedVisuals_v1.4.4_mc1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining file: EntityCulling-1.12.2-6.4.3.jar
+[05:06:31] [main/DEBUG]: Examining file: EntityDesyncFix-1.12.2-1.0.2.jar
+[05:06:31] [main/DEBUG]: Examining file: EpicSiegeMod-13.167.jar
+[05:06:31] [main/DEBUG]: Examining file: Essential_1-3-6-2_forge_1-12-2.jar
+[05:06:31] [main/DEBUG]: Examining file: Exotic Birds 1.12.2-3.2.0.jar
+[05:06:31] [main/DEBUG]: Examining file: FancyBlockParticles-1.12.x-2.4.1.jar
+[05:06:31] [main/DEBUG]: Examining file: fancymenu_forge_2.7.2_MC_1.12-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining file: FastLeafDecay-v14.jar
+[05:06:31] [main/DEBUG]: Examining file: FastWorkbench-1.12.2-1.7.4.jar
+[05:06:31] [main/DEBUG]: Examining file: fermiumasm-5.23.jar
+[05:06:31] [main/DEBUG]: Examining file: firstaid-1.6.22.jar
+[05:06:31] [main/DEBUG]: Examining file: Fish's Undead Rising-1.4.2.jar
+[05:06:31] [main/DEBUG]: Examining file: Flan's Mod-1.12.2-5.10.0.jar
+[05:06:31] [main/DEBUG]: Examining file: Follow-Me-1.12.2-1.1.5a.jar
+[05:06:31] [main/DEBUG]: Examining file: Forgelin-1.8.4.jar
+[05:06:31] [main/DEBUG]: Examining file: FTBLib-5.4.7.2.jar
+[05:06:31] [main/DEBUG]: Examining file: FTBQuests-1202.9.0.15.jar
+[05:06:31] [main/DEBUG]: Examining file: furniture-6.3.2-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining file: gamestagebooks-1.12.2-1.0.2-universal.jar
+[05:06:31] [main/DEBUG]: Examining file: GameStages-1.12.2-2.0.123.jar
+[05:06:31] [main/DEBUG]: Examining file: getittogetherdrops-1.12.2-v1.0.2.jar
+[05:06:31] [main/DEBUG]: Examining file: guns-0.15.3-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining file: HardcoreDarkness-MC1.12.2-2.0.jar
+[05:06:31] [main/DEBUG]: Examining file: HardcoreRevival_1.12.2-1.2.0.jar
+[05:06:31] [main/DEBUG]: Examining file: iblis-headshots-1.2.6.jar
+[05:06:31] [main/DEBUG]: Examining file: IguanaTweaksReborn-1.5.2-mc1.12.x.jar
+[05:06:31] [main/DEBUG]: Examining file: ImprovedMobs-1.12.2-1.6.10.jar
+[05:06:31] [main/DEBUG]: Examining file: incontrol-1.12-3.9.18.jar
+[05:06:31] [main/DEBUG]: Found existing ContainedDep META-INF/libraries/mcjtytools-1.12-0.0.21.jar(com.github.mcjty:mcjtytools:0.0.21) from D:\Applications\CurseForge\Instances\Last Days of Humanity\mods\memory_repo\com\github\mcjty\mcjtytools\0.0.21\mcjtytools-0.0.21.jar extracted to D:\Applications\CurseForge\Instances\Last Days of Humanity\mods\incontrol-1.12-3.9.18.jar, skipping extraction
+[05:06:31] [main/DEBUG]: Examining file: mcjtytools-0.0.21.jar
+[05:06:31] [main/DEBUG]: Examining file: instantunify-1.12.2-1.1.2.jar
+[05:06:31] [main/DEBUG]: Examining file: InventoryTweaks-1.63.jar
+[05:06:31] [main/DEBUG]: Examining file: ItemFilters-1.0.4.2.jar
+[05:06:31] [main/DEBUG]: Examining file: IvToolkit-1.3.3-1.12.jar
+[05:06:31] [main/DEBUG]: Examining file: JEI-Utilities-1.12.2-0.2.12.jar
+[05:06:31] [main/DEBUG]: Examining file: jei_1.12.2-4.16.1.301.jar
+[05:06:31] [main/DEBUG]: Examining file: JERI-1.12.2-1.1.2.jar
+[05:06:31] [main/DEBUG]: Examining file: journeymap-1.12.2-5.7.1p3.jar
+[05:06:31] [main/DEBUG]: Examining file: JustEnoughCalculation-1.12.2-3.2.7.jar
+[05:06:31] [main/DEBUG]: Examining file: JustEnoughResources-1.12.2-0.9.2.60.jar
+[05:06:31] [main/DEBUG]: Examining file: konkrete_forge_1.6.1_MC_1.12-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining file: KubeJS-forge-1.12.2-1.1.0.65.jar
+[05:06:31] [main/DEBUG]: Examining file: LDoH-Tweaks-1.12.2-1.1.16.jar
+[05:06:31] [main/DEBUG]: Examining file: LimitedLives-1.12.1-1.0.1.jar
+[05:06:31] [main/DEBUG]: Examining file: LimitlessStructureBlocks-1.12.2-1.1.0.jar
+[05:06:31] [main/DEBUG]: Examining file: loadmyresources_forge_1.0.4_MC_1.12-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining file: LootTweaker-0.3.1+MC1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining file: lostcities-1.12-2.0.22.jar
+[05:06:31] [main/DEBUG]: Examining file: LunatriusCore-1.12.2-1.2.0.42-universal.jar
+[05:06:31] [main/DEBUG]: Examining file: MoBends_1.12.2-1.2.1-19.12.21.jar
+[05:06:31] [main/DEBUG]: Examining file: MobsPropertiesRandomness-2.3.3-mc1.12.x.jar
+[05:06:31] [main/DEBUG]: Examining file: MobStages-1.12.2-2.0.8.jar
+[05:06:31] [main/DEBUG]: Examining file: MouseTweaks-2.10-mc1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining file: MultithreadedNoise-1.12.2-0.0.2.jar
+[05:06:31] [main/DEBUG]: Examining file: MutantBeasts-1.12.2-1.0.2.jar
+[05:06:31] [main/DEBUG]: Examining file: nanfix-final-absorbtion.jar
+[05:06:31] [main/DEBUG]: Examining file: NaturesCompass-1.12.2-1.8.5.jar
+[05:06:31] [main/DEBUG]: Examining file: Neat 1.4-17.jar
+[05:06:31] [main/DEBUG]: Examining file: NoFog-1.12.2b3.jar
+[05:06:31] [main/DEBUG]: Making maven link for virtuoel:NoFog:1.12.2-1.0.3.0 in memory to D:\Applications\CurseForge\Instances\Last Days of Humanity\mods\NoFog-1.12.2b3.jar.
+[05:06:31] [main/DEBUG]: Examining file: NotEnoughIDs-1.5.4.4.jar
+[05:06:31] [main/DEBUG]: Examining file: Nothirium-1.12.2-0.3.4-beta.jar
+[05:06:31] [main/DEBUG]: Examining file: NoWorldgen5You-1.12.2-1.0.6.jar
+[05:06:31] [main/DEBUG]: Examining file: obfuscate-0.4.2-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining file: OptiFine_1.12.2_HD_U_E3.jar
+[05:06:31] [main/DEBUG]: Examining file: OreLib-1.12.2-3.6.0.1.jar
+[05:06:31] [main/DEBUG]: Making maven link for org.orecruncher:OreLib:1.12.2-3.6.0.1 in memory to D:\Applications\CurseForge\Instances\Last Days of Humanity\mods\OreLib-1.12.2-3.6.0.1.jar.
+[05:06:31] [main/DEBUG]: Examining file: particleculling-1.12.2-v1.4.3.jar
+[05:06:31] [main/DEBUG]: Examining file: performant-1.11.jar
+[05:06:31] [main/DEBUG]: Examining file: phosphor-1.12.2-0.2.6+build50-universal.jar
+[05:06:31] [main/DEBUG]: Making maven link for me.jellysquid.mods:phosphor:1.12.2-0.2.6+build50 in memory to D:\Applications\CurseForge\Instances\Last Days of Humanity\mods\phosphor-1.12.2-0.2.6+build50-universal.jar.
+[05:06:31] [main/DEBUG]: Examining file: PhosphorCrashFix-1.12.2-1.0.0.jar
+[05:06:31] [main/DEBUG]: Examining file: Placebo-1.12.2-1.6.1.jar
+[05:06:31] [main/DEBUG]: Examining file: RealisticTorches-1.12.2-2.1.2.jar
+[05:06:31] [main/DEBUG]: Examining file: RecipeStages-1.1.3.8.jar
+[05:06:31] [main/DEBUG]: Examining file: RecurrentComplex-1.4.8.5.jar
+[05:06:31] [main/DEBUG]: Examining file: refinedstorage-1.6.16.jar
+[05:06:31] [main/DEBUG]: Examining file: RenderLib-1.12.2-1.3.4.jar
+[05:06:31] [main/DEBUG]: Examining file: sb-3.jar
+[05:06:31] [main/DEBUG]: Examining file: sekcphysics-0.1.0.jar
+[05:06:31] [main/DEBUG]: Examining file: Server-Pauser-1.12.2-1.0.0.jar
+[05:06:31] [main/DEBUG]: Examining file: ShulkerTooltip-1.9.2.2.jar
+[05:06:31] [main/DEBUG]: Examining file: simpleFlashlight-2.0.0.jar
+[05:06:31] [main/DEBUG]: Examining file: simplegenerators-1.12.2-2.0.20.2.jar
+[05:06:31] [main/DEBUG]: Examining file: SimpleStorageNetwork-1.12.2-1.8.3.jar
+[05:06:31] [main/DEBUG]: Examining file: Sledgehammer-1.12.2-2.0.26.jar
+[05:06:31] [main/DEBUG]: Examining file: SleepingOverhaul-1.12.2-1.0.0.jar
+[05:06:31] [main/DEBUG]: Examining file: SoundFilters-0.12.1_for_1.12.jar
+[05:06:31] [main/DEBUG]: Examining file: spark-forge.jar
+[05:06:31] [main/DEBUG]: Examining file: SpartanShields-1.12.2-1.5.5.jar
+[05:06:31] [main/DEBUG]: Examining file: SpartanWeaponry-1.12.2-1.6.0.jar
+[05:06:31] [main/DEBUG]: Examining file: SpiceOfLife-mc1.12-1.3.12.jar
+[05:06:31] [main/DEBUG]: Examining file: SRParasites-1.12.2v1.9.21.jar
+[05:06:31] [main/DEBUG]: Examining file: Stackie-1.12.2-1.6.0.48-universal.jar
+[05:06:31] [main/DEBUG]: Examining file: starterkit_1.12.2-2.4.jar
+[05:06:31] [main/DEBUG]: Examining file: stg-1.12.2-1.2.3.jar
+[05:06:31] [main/DEBUG]: Examining file: Surge-1.12.2-2.0.77.jar
+[05:06:31] [main/DEBUG]: Examining file: tellme-1.12.2-0.7.0-dev.20200919.184303.jar
+[05:06:31] [main/DEBUG]: Examining file: TenshiLib-1.12.2-1.2.4.jar
+[05:06:31] [main/DEBUG]: Examining file: TF2-Stuff-Reloaded-1.12.2-1.7.3a.jar
+[05:06:31] [main/DEBUG]: Examining file: The-Hordes-1.12.2-1.1.7.jar
+[05:06:31] [main/DEBUG]: Examining file: TickrateChanger-1.0.14.jar
+[05:06:31] [main/DEBUG]: Examining file: Toast Control-1.12.2-1.8.1.jar
+[05:06:31] [main/DEBUG]: Examining file: trashcans-1.0.18-forge-mc1.12.jar
+[05:06:31] [main/DEBUG]: Examining file: TravelersBackpack-1.12.2-1.0.35.jar
+[05:06:31] [main/DEBUG]: Examining file: treeharvester_1.12.2-4.0.jar
+[05:06:31] [main/DEBUG]: Examining file: Unexperienced-1.12.2-1.2.0b.jar
+[05:06:31] [main/DEBUG]: Examining file: unloader-1.2.0.jar
+[05:06:31] [main/DEBUG]: Examining file: valkyrielib-1.12.2-2.0.20.1.jar
+[05:06:31] [main/DEBUG]: Examining file: VeinMiner-1.12-0.38.2.647+b31535a.jar
+[05:06:31] [main/DEBUG]: Examining file: wastelands-1.2.2-null-universal.jar
+[05:06:31] [main/DEBUG]: Examining file: XL-Food-Mod-1.12.2-1.9.2.jar
+[05:06:31] [main/DEBUG]: Examining file: zombieawareness-1.12.1-1.11.16.jar
+[05:06:31] [main/DEBUG]: Examining file: [1.12.x][ver.3.0.0]SpawnController.jar.jar
+[05:06:31] [main/DEBUG]: Examining file: [___MixinCompat-1.1-1.12.2___].jar
+[05:06:31] [main/DEBUG]: Examining file: _MixinBootstrap-1.1.0.jar
+[05:06:31] [main/DEBUG]: Examining file: _supermartijn642corelib-1.1.16a-forge-mc1.12.jar
+[05:06:31] [main/DEBUG]: Examining file: `FermiumBooter-1.1.0.jar
+[05:06:31] [main/DEBUG]: File already proccessed D:\Applications\CurseForge\Instances\Last Days of Humanity\mods\memory_repo\com\github\mcjty\mcjtytools\0.0.21\mcjtytools-0.0.21.jar, Skipping
+[05:06:31] [main/DEBUG]: File already proccessed D:\Applications\CurseForge\Instances\Last Days of Humanity\mods\NoFog-1.12.2b3.jar, Skipping
+[05:06:31] [main/DEBUG]: File already proccessed D:\Applications\CurseForge\Instances\Last Days of Humanity\mods\OreLib-1.12.2-3.6.0.1.jar, Skipping
+[05:06:31] [main/DEBUG]: File already proccessed D:\Applications\CurseForge\Instances\Last Days of Humanity\mods\phosphor-1.12.2-0.2.6+build50-universal.jar, Skipping
+[05:06:31] [main/DEBUG]: Enabling runtime deobfuscation
+[05:06:31] [main/DEBUG]: Instantiating coremod class FMLCorePlugin
+[05:06:31] [main/WARN]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[05:06:31] [main/DEBUG]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[05:06:31] [main/DEBUG]: Enqueued coremod FMLCorePlugin
+[05:06:31] [main/DEBUG]: Instantiating coremod class FMLForgePlugin
+[05:06:31] [main/WARN]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod FMLForgePlugin
+[05:06:31] [main/DEBUG]: All fundamental core mods are successfully located
+[05:06:31] [main/DEBUG]: Discovering coremods
+[05:06:31] [main/INFO]: Searching D:\Applications\CurseForge\Instances\Last Days of Humanity\mods for mods
+[05:06:31] [main/DEBUG]:   Adding !Red-Core-MC-1.8-1.12-0.6-Dev-4.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding AIImprovements-1.12-0.0.1b3.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding animania-1.12.2-base-2.0.3.28.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding animania-1.12.2-extra-1.0.2.28.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding animania-1.12.2-farm-1.0.2.28.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding AppleCore-mc1.12.2-3.4.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding AppleSkin-mc1.12-1.0.14.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Atlas-Lib-1.12.2-1.1.5a.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding AttributeFix-Forge-1.12.2-1.0.12.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding backpacked-1.4.3-1.12.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding BadMobs-1.12.2-1.1.40.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding BetterFps-1.4.8.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding BHMenu-Forge-1.12.2-2.4.1.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding BiblioCraft[v2.4.6][MC1.12.2].jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding biggerpacketsplz-since1.8-1.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding BiomeTweaker-1.12.2-3.2.369.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding blockgravity-2.0.5.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Bookshelf-1.12.2-2.3.590.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding buildcraft-all-7.99.24.8.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding car-1.12.2-2.0.1.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding carryon-1.12.2-1.12.7.23.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Chunk Pregenerator-V1.12-2.5.7.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding ChunkAnimator-1.12.2-1.2.1.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding collective-1.12.2-3.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Controlling-3.0.12.3.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding CookingForBlockheads_1.12.2-6.5.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding coroutil-1.12.1-1.2.37.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding CosmicLib-1.12.2-0.4.0.BETA.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding CraftTweaker2-1.12-4.1.20.690.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding CreativeCore_v1.10.71_mc1.12.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding DefaultWorldGenerator-port-1.12-2.3.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding deuf-1.1-1.12.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Ding-1.12.2-1.0.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding DynamicLights-1.12.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding DynamicSurroundings-1.12.2-3.6.3.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding EnchantmentDescriptions-1.12.2-1.1.15.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding energyconverters_1.12.2-1.3.7.30.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding EnhancedVisuals_v1.4.4_mc1.12.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding EntityCulling-1.12.2-6.4.3.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding EntityDesyncFix-1.12.2-1.0.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding EpicSiegeMod-13.167.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Essential_1-3-6-2_forge_1-12-2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Exotic Birds 1.12.2-3.2.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding FancyBlockParticles-1.12.x-2.4.1.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding fancymenu_forge_2.7.2_MC_1.12-1.12.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding FastLeafDecay-v14.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding FastWorkbench-1.12.2-1.7.4.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding fermiumasm-5.23.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding firstaid-1.6.22.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Fish's Undead Rising-1.4.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Flan's Mod-1.12.2-5.10.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Follow-Me-1.12.2-1.1.5a.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Forgelin-1.8.4.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding FTBLib-5.4.7.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding FTBQuests-1202.9.0.15.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding furniture-6.3.2-1.12.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding gamestagebooks-1.12.2-1.0.2-universal.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding GameStages-1.12.2-2.0.123.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding getittogetherdrops-1.12.2-v1.0.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding guns-0.15.3-1.12.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding HardcoreDarkness-MC1.12.2-2.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding HardcoreRevival_1.12.2-1.2.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding iblis-headshots-1.2.6.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding IguanaTweaksReborn-1.5.2-mc1.12.x.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding ImprovedMobs-1.12.2-1.6.10.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding incontrol-1.12-3.9.18.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding instantunify-1.12.2-1.1.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding InventoryTweaks-1.63.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding ItemFilters-1.0.4.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding IvToolkit-1.3.3-1.12.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding JEI-Utilities-1.12.2-0.2.12.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding jei_1.12.2-4.16.1.301.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding JERI-1.12.2-1.1.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding journeymap-1.12.2-5.7.1p3.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding JustEnoughCalculation-1.12.2-3.2.7.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding JustEnoughResources-1.12.2-0.9.2.60.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding konkrete_forge_1.6.1_MC_1.12-1.12.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding KubeJS-forge-1.12.2-1.1.0.65.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding LDoH-Tweaks-1.12.2-1.1.16.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding LimitedLives-1.12.1-1.0.1.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding LimitlessStructureBlocks-1.12.2-1.1.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding loadmyresources_forge_1.0.4_MC_1.12-1.12.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding LootTweaker-0.3.1+MC1.12.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding lostcities-1.12-2.0.22.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding LunatriusCore-1.12.2-1.2.0.42-universal.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding MoBends_1.12.2-1.2.1-19.12.21.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding MobsPropertiesRandomness-2.3.3-mc1.12.x.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding MobStages-1.12.2-2.0.8.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding MouseTweaks-2.10-mc1.12.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding MultithreadedNoise-1.12.2-0.0.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding MutantBeasts-1.12.2-1.0.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding nanfix-final-absorbtion.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding NaturesCompass-1.12.2-1.8.5.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Neat 1.4-17.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding NoFog-1.12.2b3.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding NotEnoughIDs-1.5.4.4.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Nothirium-1.12.2-0.3.4-beta.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding NoWorldgen5You-1.12.2-1.0.6.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding obfuscate-0.4.2-1.12.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding OptiFine_1.12.2_HD_U_E3.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding OreLib-1.12.2-3.6.0.1.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding particleculling-1.12.2-v1.4.3.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding performant-1.11.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding phosphor-1.12.2-0.2.6+build50-universal.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding PhosphorCrashFix-1.12.2-1.0.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Placebo-1.12.2-1.6.1.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding RealisticTorches-1.12.2-2.1.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding RecipeStages-1.1.3.8.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding RecurrentComplex-1.4.8.5.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding refinedstorage-1.6.16.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding RenderLib-1.12.2-1.3.4.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding sb-3.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding sekcphysics-0.1.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Server-Pauser-1.12.2-1.0.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding ShulkerTooltip-1.9.2.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding simpleFlashlight-2.0.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding simplegenerators-1.12.2-2.0.20.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding SimpleStorageNetwork-1.12.2-1.8.3.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Sledgehammer-1.12.2-2.0.26.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding SleepingOverhaul-1.12.2-1.0.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding SoundFilters-0.12.1_for_1.12.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding spark-forge.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding SpartanShields-1.12.2-1.5.5.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding SpartanWeaponry-1.12.2-1.6.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding SpiceOfLife-mc1.12-1.3.12.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding SRParasites-1.12.2v1.9.21.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Stackie-1.12.2-1.6.0.48-universal.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding starterkit_1.12.2-2.4.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding stg-1.12.2-1.2.3.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Surge-1.12.2-2.0.77.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding tellme-1.12.2-0.7.0-dev.20200919.184303.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding TenshiLib-1.12.2-1.2.4.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding TF2-Stuff-Reloaded-1.12.2-1.7.3a.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding The-Hordes-1.12.2-1.1.7.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding TickrateChanger-1.0.14.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Toast Control-1.12.2-1.8.1.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding trashcans-1.0.18-forge-mc1.12.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding TravelersBackpack-1.12.2-1.0.35.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding treeharvester_1.12.2-4.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding Unexperienced-1.12.2-1.2.0b.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding unloader-1.2.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding valkyrielib-1.12.2-2.0.20.1.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding VeinMiner-1.12-0.38.2.647+b31535a.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding wastelands-1.2.2-null-universal.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding XL-Food-Mod-1.12.2-1.9.2.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding zombieawareness-1.12.1-1.11.16.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding [1.12.x][ver.3.0.0]SpawnController.jar.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding [___MixinCompat-1.1-1.12.2___].jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding _MixinBootstrap-1.1.0.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding _supermartijn642corelib-1.1.16a-forge-mc1.12.jar to the mod list
+[05:06:31] [main/DEBUG]:   Adding `FermiumBooter-1.1.0.jar to the mod list
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy !Red-Core-MC-1.8-1.12-0.6-Dev-4.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in !Red-Core-MC-1.8-1.12-0.6-Dev-4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class RedCorePlugin
+[05:06:31] [main/TRACE]: coremod named Red Core is loading
+[05:06:31] [main/WARN]: The coremod dev.redstudio.redcore.RedCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/WARN]: The coremod Red Core (dev.redstudio.redcore.RedCorePlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod Red Core
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy [1.12.x][ver.3.0.0]SpawnController.jar.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in [1.12.x][ver.3.0.0]SpawnController.jar.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy [___MixinCompat-1.1-1.12.2___].jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [___MixinCompat-1.1-1.12.2___].jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy _MixinBootstrap-1.1.0.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _MixinBootstrap-1.1.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy _supermartijn642corelib-1.1.16a-forge-mc1.12.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _supermartijn642corelib-1.1.16a-forge-mc1.12.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy `FermiumBooter-1.1.0.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from `FermiumBooter-1.1.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy AIImprovements-1.12-0.0.1b3.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in AIImprovements-1.12-0.0.1b3.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy animania-1.12.2-base-2.0.3.28.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in animania-1.12.2-base-2.0.3.28.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy animania-1.12.2-extra-1.0.2.28.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in animania-1.12.2-extra-1.0.2.28.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy animania-1.12.2-farm-1.0.2.28.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in animania-1.12.2-farm-1.0.2.28.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy AppleCore-mc1.12.2-3.4.0.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in AppleCore-mc1.12.2-3.4.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class AppleCore
+[05:06:31] [main/DEBUG]: The coremod squeek.applecore.AppleCore requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod AppleCore (squeek.applecore.AppleCore) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod AppleCore
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy AppleSkin-mc1.12-1.0.14.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in AppleSkin-mc1.12-1.0.14.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Atlas-Lib-1.12.2-1.1.5a.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Atlas-Lib-1.12.2-1.1.5a.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy AttributeFix-Forge-1.12.2-1.0.12.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in AttributeFix-Forge-1.12.2-1.0.12.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy backpacked-1.4.3-1.12.2.jar
+[05:06:31] [main/TRACE]: Adding backpacked-1.4.3-1.12.2.jar to the list of known coremods, it will not be examined again
+[05:06:31] [main/DEBUG]: Instantiating coremod class BackpackedPlugin
+[05:06:31] [main/TRACE]: coremod named Backpacked is loading
+[05:06:31] [main/DEBUG]: The coremod com.mrcrayfish.backpacked.asm.BackpackedPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod Backpacked (com.mrcrayfish.backpacked.asm.BackpackedPlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod Backpacked
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy BadMobs-1.12.2-1.1.40.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in BadMobs-1.12.2-1.1.40.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy BetterFps-1.4.8.jar
+[05:06:31] [main/INFO]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy BHMenu-Forge-1.12.2-2.4.1.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from BHMenu-Forge-1.12.2-2.4.1.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy BiblioCraft[v2.4.6][MC1.12.2].jar
+[05:06:31] [main/DEBUG]: Not found coremod data in BiblioCraft[v2.4.6][MC1.12.2].jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy biggerpacketsplz-since1.8-1.2.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in biggerpacketsplz-since1.8-1.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class BiggerPacketsPlzCoreMod
+[05:06:31] [main/WARN]: The coremod net.elnounch.mc.biggerpacketsplz.BiggerPacketsPlzCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/DEBUG]: Found signing certificates for coremod BiggerPacketsPlzCoreMod (net.elnounch.mc.biggerpacketsplz.BiggerPacketsPlzCoreMod)
+[05:06:31] [main/DEBUG]: Found certificate 266588b191a3e2974a4a577f282858a3bc07da42
+[05:06:31] [main/DEBUG]: Enqueued coremod BiggerPacketsPlzCoreMod
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy BiomeTweaker-1.12.2-3.2.369.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in BiomeTweaker-1.12.2-3.2.369.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy blockgravity-2.0.5.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in blockgravity-2.0.5.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Bookshelf-1.12.2-2.3.590.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Bookshelf-1.12.2-2.3.590.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy buildcraft-all-7.99.24.8.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in buildcraft-all-7.99.24.8.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy car-1.12.2-2.0.1.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in car-1.12.2-2.0.1.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy carryon-1.12.2-1.12.7.23.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in carryon-1.12.2-1.12.7.23.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Chunk Pregenerator-V1.12-2.5.7.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Chunk Pregenerator-V1.12-2.5.7.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy ChunkAnimator-1.12.2-1.2.1.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-1.12.2-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class LoadingPlugin
+[05:06:31] [main/WARN]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/WARN]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod LoadingPlugin
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy collective-1.12.2-3.0.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in collective-1.12.2-3.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Controlling-3.0.12.3.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Controlling-3.0.12.3.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy CookingForBlockheads_1.12.2-6.5.0.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in CookingForBlockheads_1.12.2-6.5.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy coroutil-1.12.1-1.2.37.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in coroutil-1.12.1-1.2.37.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy CosmicLib-1.12.2-0.4.0.BETA.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CosmicLib-1.12.2-0.4.0.BETA.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class FakeCoreMod
+[05:06:31] [main/TRACE]: coremod named CosmicLibFakeCoreMod is loading
+[05:06:31] [main/WARN]: The coremod com.cosmicdan.cosmiclib.asm.FakeCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/DEBUG]: Found signing certificates for coremod CosmicLibFakeCoreMod (com.cosmicdan.cosmiclib.asm.FakeCoreMod)
+[05:06:31] [main/DEBUG]: Found certificate d3974446c00f9f1d275edce305771eeddf30c658
+[05:06:31] [main/DEBUG]: Enqueued coremod CosmicLibFakeCoreMod
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy CraftTweaker2-1.12-4.1.20.690.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in CraftTweaker2-1.12-4.1.20.690.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy CreativeCore_v1.10.71_mc1.12.2.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class CreativePatchingLoader
+[05:06:31] [main/WARN]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/WARN]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod CreativePatchingLoader
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy DefaultWorldGenerator-port-1.12-2.3.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in DefaultWorldGenerator-port-1.12-2.3.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy deuf-1.1-1.12.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in deuf-1.1-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Ding-1.12.2-1.0.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Ding-1.12.2-1.0.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy DynamicLights-1.12.2.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in DynamicLights-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class DLFMLCorePlugin
+[05:06:31] [main/WARN]: The coremod atomicstryker.dynamiclights.common.DLFMLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/WARN]: The coremod DLFMLCorePlugin (atomicstryker.dynamiclights.common.DLFMLCorePlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod DLFMLCorePlugin
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy DynamicSurroundings-1.12.2-3.6.3.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.3.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy EnchantmentDescriptions-1.12.2-1.1.15.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in EnchantmentDescriptions-1.12.2-1.1.15.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy energyconverters_1.12.2-1.3.7.30.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in energyconverters_1.12.2-1.3.7.30.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy EnhancedVisuals_v1.4.4_mc1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy EntityCulling-1.12.2-6.4.3.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from EntityCulling-1.12.2-6.4.3.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy EntityDesyncFix-1.12.2-1.0.2.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from EntityDesyncFix-1.12.2-1.0.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy EpicSiegeMod-13.167.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in EpicSiegeMod-13.167.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Essential_1-3-6-2_forge_1-12-2.jar
+[05:06:31] [main/INFO]: Loading tweaker gg.essential.loader.stage0.EssentialSetupTweaker from Essential_1-3-6-2_forge_1-12-2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Exotic Birds 1.12.2-3.2.0.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Exotic Birds 1.12.2-3.2.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy FancyBlockParticles-1.12.x-2.4.1.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in FancyBlockParticles-1.12.x-2.4.1.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy fancymenu_forge_2.7.2_MC_1.12-1.12.2.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from fancymenu_forge_2.7.2_MC_1.12-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy FastLeafDecay-v14.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in FastLeafDecay-v14.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy FastWorkbench-1.12.2-1.7.4.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in FastWorkbench-1.12.2-1.7.4.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy fermiumasm-5.23.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in fermiumasm-5.23.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class NormalLoadingPlugin
+[05:06:31] [main/TRACE]: coremod named FermiumASM is loading
+[05:06:31] [main/DEBUG]: The coremod mirror.normalasm.core.NormalLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod FermiumASM (mirror.normalasm.core.NormalLoadingPlugin) is not signed!
+[05:06:31] [main/INFO]: FermiumASM is on the client-side.
+[05:06:31] [main/INFO]: FermiumASM is preparing and loading in mixins
+[05:06:31] [main/WARN]: Replacing CA Certs with an updated one...
+[05:06:31] [main/INFO]: Initializing StacktraceDeobfuscator...
+[05:06:31] [main/INFO]: Found MCP stable-39 method mappings: methods-stable_39.csv
+[05:06:31] [main/INFO]: Initialized StacktraceDeobfuscator.
+[05:06:31] [main/INFO]: Installing DeobfuscatingRewritePolicy...
+[05:06:31] [main/INFO]: Installed DeobfuscatingRewritePolicy.
+[05:06:31] [main/INFO]: FermiumASM enqueueing early mixins
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.devenv.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.internal.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.vanities.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.registries.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.stripitemstack.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.lockcode.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.recipes.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.misc_fluidregistry.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.forgefixes.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.capability.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.singletonevents.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.efficienthashing.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.crashes.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.fix_mc129057.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.priorities.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.bucket.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.rendering.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.datastructures_modelmanager.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.screenshot.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.ondemand_sprites.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.searchtree_vanilla.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.resolve_mc2071.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.fix_mc_skindownloading.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.fix_mc186052.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.vfix_bugfixes.json" for early mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumASM enqueueing late mixins
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.bakedquadsquasher.json" for late mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.modfixes_immersiveengineering.json" for late mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.modfixes_evilcraftcompat.json" for late mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.modfixes_ebwizardry.json" for late mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.modfixes_xu2.json" for late mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.searchtree_mod.json" for late mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.modfixes_astralsorcery.json" for late mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.capability_astralsorcery.json" for late mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumRegistryAPI supplied "mixins.modfixes_b3m.json" for late mixin enqueue, adding.
+[05:06:31] [main/INFO]: FermiumASM finished mixin enqueue
+[05:06:31] [main/DEBUG]: Added access transformer class mirror.normalasm.core.NormalTransformer to enqueued access transformers
+[05:06:31] [main/DEBUG]: Enqueued coremod FermiumASM
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy firstaid-1.6.22.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in firstaid-1.6.22.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Fish's Undead Rising-1.4.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Fish's Undead Rising-1.4.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Flan's Mod-1.12.2-5.10.0.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Flan's Mod-1.12.2-5.10.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Follow-Me-1.12.2-1.1.5a.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Follow-Me-1.12.2-1.1.5a.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Forgelin-1.8.4.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class ForgelinPlugin
+[05:06:31] [main/WARN]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/WARN]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod ForgelinPlugin
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy FTBLib-5.4.7.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in FTBLib-5.4.7.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy FTBQuests-1202.9.0.15.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in FTBQuests-1202.9.0.15.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy furniture-6.3.2-1.12.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in furniture-6.3.2-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy gamestagebooks-1.12.2-1.0.2-universal.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in gamestagebooks-1.12.2-1.0.2-universal.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy GameStages-1.12.2-2.0.123.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in GameStages-1.12.2-2.0.123.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy getittogetherdrops-1.12.2-v1.0.2.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from getittogetherdrops-1.12.2-v1.0.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy guns-0.15.3-1.12.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in guns-0.15.3-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy HardcoreDarkness-MC1.12.2-2.0.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in HardcoreDarkness-MC1.12.2-2.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class LoadingPlugin
+[05:06:31] [main/WARN]: The coremod lumien.hardcoredarkness.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/DEBUG]: Found signing certificates for coremod LoadingPlugin (lumien.hardcoredarkness.asm.LoadingPlugin)
+[05:06:31] [main/DEBUG]: Found certificate d72e0dd57935b3e9476212aea0c0df352dd76291
+[05:06:31] [main/DEBUG]: Enqueued coremod LoadingPlugin
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy HardcoreRevival_1.12.2-1.2.0.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in HardcoreRevival_1.12.2-1.2.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy iblis-headshots-1.2.6.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in iblis-headshots-1.2.6.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy IguanaTweaksReborn-1.5.2-mc1.12.x.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in IguanaTweaksReborn-1.5.2-mc1.12.x.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy ImprovedMobs-1.12.2-1.6.10.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in ImprovedMobs-1.12.2-1.6.10.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy incontrol-1.12-3.9.18.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in incontrol-1.12-3.9.18.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy instantunify-1.12.2-1.1.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in instantunify-1.12.2-1.1.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy InventoryTweaks-1.63.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class FMLPlugin
+[05:06:31] [main/TRACE]: coremod named Inventory Tweaks Coremod is loading
+[05:06:31] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/DEBUG]: Found signing certificates for coremod Inventory Tweaks Coremod (invtweaks.forge.asm.FMLPlugin)
+[05:06:31] [main/DEBUG]: Found certificate 55d2cd4f5f0961410bf7b91ef6c6bf00a766dcbe
+[05:06:31] [main/DEBUG]: Added access transformer class invtweaks.forge.asm.ITAccessTransformer to enqueued access transformers
+[05:06:31] [main/DEBUG]: Enqueued coremod Inventory Tweaks Coremod
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy ItemFilters-1.0.4.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in ItemFilters-1.0.4.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy IvToolkit-1.3.3-1.12.jar
+[05:06:31] [main/TRACE]: Adding IvToolkit-1.3.3-1.12.jar to the list of known coremods, it will not be examined again
+[05:06:31] [main/DEBUG]: Instantiating coremod class IvToolkitLoadingPlugin
+[05:06:31] [main/TRACE]: coremod named IvToolkit is loading
+[05:06:31] [main/WARN]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/WARN]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod IvToolkit
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy JEI-Utilities-1.12.2-0.2.12.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in JEI-Utilities-1.12.2-0.2.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class JeiUtilitiesLoadingPlugin
+[05:06:31] [main/WARN]: The coremod com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/WARN]: The coremod JeiUtilitiesLoadingPlugin (com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod JeiUtilitiesLoadingPlugin
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy jei_1.12.2-4.16.1.301.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in jei_1.12.2-4.16.1.301.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy JERI-1.12.2-1.1.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in JERI-1.12.2-1.1.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy journeymap-1.12.2-5.7.1p3.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in journeymap-1.12.2-5.7.1p3.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy JustEnoughCalculation-1.12.2-3.2.7.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in JustEnoughCalculation-1.12.2-3.2.7.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy JustEnoughResources-1.12.2-0.9.2.60.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in JustEnoughResources-1.12.2-0.9.2.60.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy konkrete_forge_1.6.1_MC_1.12-1.12.2.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from konkrete_forge_1.6.1_MC_1.12-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy KubeJS-forge-1.12.2-1.1.0.65.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in KubeJS-forge-1.12.2-1.1.0.65.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy LDoH-Tweaks-1.12.2-1.1.16.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from LDoH-Tweaks-1.12.2-1.1.16.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy LimitedLives-1.12.1-1.0.1.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in LimitedLives-1.12.1-1.0.1.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy LimitlessStructureBlocks-1.12.2-1.1.0.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in LimitlessStructureBlocks-1.12.2-1.1.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy loadmyresources_forge_1.0.4_MC_1.12-1.12.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in loadmyresources_forge_1.0.4_MC_1.12-1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy LootTweaker-0.3.1+MC1.12.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in LootTweaker-0.3.1+MC1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy lostcities-1.12-2.0.22.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in lostcities-1.12-2.0.22.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy LunatriusCore-1.12.2-1.2.0.42-universal.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in LunatriusCore-1.12.2-1.2.0.42-universal.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy MoBends_1.12.2-1.2.1-19.12.21.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in MoBends_1.12.2-1.2.1-19.12.21.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy MobsPropertiesRandomness-2.3.3-mc1.12.x.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in MobsPropertiesRandomness-2.3.3-mc1.12.x.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy MobStages-1.12.2-2.0.8.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in MobStages-1.12.2-2.0.8.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy MouseTweaks-2.10-mc1.12.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in MouseTweaks-2.10-mc1.12.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy MultithreadedNoise-1.12.2-0.0.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in MultithreadedNoise-1.12.2-0.0.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy MutantBeasts-1.12.2-1.0.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in MutantBeasts-1.12.2-1.0.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy nanfix-final-absorbtion.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in nanfix-final-absorbtion.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy NaturesCompass-1.12.2-1.8.5.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in NaturesCompass-1.12.2-1.8.5.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Neat 1.4-17.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Neat 1.4-17.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy NotEnoughIDs-1.5.4.4.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in NotEnoughIDs-1.5.4.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class Plugin
+[05:06:31] [main/WARN]: The coremod ru.fewizz.neid.asm.Plugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/WARN]: The coremod Plugin (ru.fewizz.neid.asm.Plugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod Plugin
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Nothirium-1.12.2-0.3.4-beta.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Nothirium-1.12.2-0.3.4-beta.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy NoWorldgen5You-1.12.2-1.0.6.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in NoWorldgen5You-1.12.2-1.0.6.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy obfuscate-0.4.2-1.12.2.jar
+[05:06:31] [main/TRACE]: Adding obfuscate-0.4.2-1.12.2.jar to the list of known coremods, it will not be examined again
+[05:06:31] [main/DEBUG]: Instantiating coremod class ObfuscatePlugin
+[05:06:31] [main/DEBUG]: The coremod com.mrcrayfish.obfuscate.asm.ObfuscatePlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod ObfuscatePlugin
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy OptiFine_1.12.2_HD_U_E3.jar
+[05:06:31] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy particleculling-1.12.2-v1.4.3.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from particleculling-1.12.2-v1.4.3.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy performant-1.11.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in performant-1.11.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy PhosphorCrashFix-1.12.2-1.0.0.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in PhosphorCrashFix-1.12.2-1.0.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class PCFCoreMod
+[05:06:31] [main/TRACE]: coremod named PCF Core Mod is loading
+[05:06:31] [main/DEBUG]: The coremod nathan.phosphorcrashfix.core.PCFCoreMod requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod PCF Core Mod (nathan.phosphorcrashfix.core.PCFCoreMod) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod PCF Core Mod
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Placebo-1.12.2-1.6.1.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Placebo-1.12.2-1.6.1.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy RealisticTorches-1.12.2-2.1.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in RealisticTorches-1.12.2-2.1.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy RecipeStages-1.1.3.8.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in RecipeStages-1.1.3.8.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy RecurrentComplex-1.4.8.5.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in RecurrentComplex-1.4.8.5.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy refinedstorage-1.6.16.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in refinedstorage-1.6.16.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy RenderLib-1.12.2-1.3.4.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from RenderLib-1.12.2-1.3.4.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy sb-3.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in sb-3.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy sekcphysics-0.1.0.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in sekcphysics-0.1.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Server-Pauser-1.12.2-1.0.0.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Server-Pauser-1.12.2-1.0.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy ShulkerTooltip-1.9.2.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in ShulkerTooltip-1.9.2.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy simpleFlashlight-2.0.0.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in simpleFlashlight-2.0.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy simplegenerators-1.12.2-2.0.20.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in simplegenerators-1.12.2-2.0.20.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy SimpleStorageNetwork-1.12.2-1.8.3.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in SimpleStorageNetwork-1.12.2-1.8.3.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Sledgehammer-1.12.2-2.0.26.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Sledgehammer-1.12.2-2.0.26.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy SleepingOverhaul-1.12.2-1.0.0.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in SleepingOverhaul-1.12.2-1.0.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy SoundFilters-0.12.1_for_1.12.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in SoundFilters-0.12.1_for_1.12.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy spark-forge.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in spark-forge.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy SpartanShields-1.12.2-1.5.5.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in SpartanShields-1.12.2-1.5.5.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy SpartanWeaponry-1.12.2-1.6.0.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy SpiceOfLife-mc1.12-1.3.12.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in SpiceOfLife-mc1.12-1.3.12.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy SRParasites-1.12.2v1.9.21.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in SRParasites-1.12.2v1.9.21.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Stackie-1.12.2-1.6.0.48-universal.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Stackie-1.12.2-1.6.0.48-universal.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy starterkit_1.12.2-2.4.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in starterkit_1.12.2-2.4.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy stg-1.12.2-1.2.3.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in stg-1.12.2-1.2.3.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Surge-1.12.2-2.0.77.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Surge-1.12.2-2.0.77.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy tellme-1.12.2-0.7.0-dev.20200919.184303.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in tellme-1.12.2-0.7.0-dev.20200919.184303.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy TenshiLib-1.12.2-1.2.4.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in TenshiLib-1.12.2-1.2.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class ASMLoader
+[05:06:31] [main/TRACE]: coremod named TenshiCore is loading
+[05:06:31] [main/DEBUG]: The coremod com.flemmli97.tenshilib.asm.ASMLoader requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod TenshiCore (com.flemmli97.tenshilib.asm.ASMLoader) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod TenshiCore
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy TF2-Stuff-Reloaded-1.12.2-1.7.3a.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from TF2-Stuff-Reloaded-1.12.2-1.7.3a.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy The-Hordes-1.12.2-1.1.7.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from The-Hordes-1.12.2-1.1.7.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy TickrateChanger-1.0.14.jar
+[05:06:31] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in TickrateChanger-1.0.14.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:06:31] [main/DEBUG]: Instantiating coremod class TickrateChanger
+[05:06:31] [main/WARN]: The coremod me.guichaguri.tickratechanger.TickrateChanger does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/WARN]: The coremod TickrateChanger (me.guichaguri.tickratechanger.TickrateChanger) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod TickrateChanger
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Toast Control-1.12.2-1.8.1.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Toast Control-1.12.2-1.8.1.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy trashcans-1.0.18-forge-mc1.12.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in trashcans-1.0.18-forge-mc1.12.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy TravelersBackpack-1.12.2-1.0.35.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in TravelersBackpack-1.12.2-1.0.35.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy treeharvester_1.12.2-4.0.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in treeharvester_1.12.2-4.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy Unexperienced-1.12.2-1.2.0b.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in Unexperienced-1.12.2-1.2.0b.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy unloader-1.2.0.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in unloader-1.2.0.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy valkyrielib-1.12.2-2.0.20.1.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in valkyrielib-1.12.2-2.0.20.1.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy VeinMiner-1.12-0.38.2.647+b31535a.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in VeinMiner-1.12-0.38.2.647+b31535a.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy wastelands-1.2.2-null-universal.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in wastelands-1.2.2-null-universal.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy XL-Food-Mod-1.12.2-1.9.2.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in XL-Food-Mod-1.12.2-1.9.2.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy zombieawareness-1.12.1-1.11.16.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in zombieawareness-1.12.1-1.11.16.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy mcjtytools-0.0.21.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in mcjtytools-0.0.21.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy NoFog-1.12.2b3.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in NoFog-1.12.2b3.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy OreLib-1.12.2-3.6.0.1.jar
+[05:06:31] [main/DEBUG]: Not found coremod data in OreLib-1.12.2-3.6.0.1.jar
+[05:06:31] [main/DEBUG]: Examining for coremod candidacy phosphor-1.12.2-0.2.6+build50-universal.jar
+[05:06:31] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-1.12.2-0.2.6+build50-universal.jar
+[05:06:31] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[05:06:31] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[05:06:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/D:/Applications/CurseForge/Instances/Last%20Days%20of%20Humanity/essential/Essential%20(forge_1.12.2).processed.jar Service=LaunchWrapper Env=CLIENT
+[05:06:31] [main/DEBUG]: Instantiating coremod class CoreModPlugin
+[05:06:31] [main/TRACE]: coremod named SuperMartijn642's Core Lib Plugin is loading
+[05:06:31] [main/DEBUG]: The coremod com.supermartijn642.core.coremod.CoreModPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod SuperMartijn642's Core Lib Plugin (com.supermartijn642.core.coremod.CoreModPlugin) is not signed!
+[05:06:31] [main/INFO]: Compatibility level set to JAVA_8
+[05:06:31] [main/DEBUG]: Added access transformer class com/supermartijn642/core/coremod/CoreLibAccessTransformer to enqueued access transformers
+[05:06:31] [main/DEBUG]: Enqueued coremod SuperMartijn642's Core Lib Plugin
+[05:06:31] [main/DEBUG]: Instantiating coremod class FermiumPlugin
+[05:06:31] [main/TRACE]: coremod named FermiumBooter is loading
+[05:06:31] [main/DEBUG]: The coremod fermiumbooter.FermiumPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod FermiumBooter (fermiumbooter.FermiumPlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod FermiumBooter
+[05:06:31] [main/DEBUG]: Instantiating coremod class TransformLoader
+[05:06:31] [main/DEBUG]: The coremod org.orecruncher.dsurround.mixins.TransformLoader requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod TransformLoader
+[05:06:31] [main/DEBUG]: Instantiating coremod class EntityCullingPlugin
+[05:06:31] [main/DEBUG]: The coremod meldexun.entityculling.asm.EntityCullingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod EntityCullingPlugin (meldexun.entityculling.asm.EntityCullingPlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod EntityCullingPlugin
+[05:06:31] [main/DEBUG]: Instantiating coremod class EntityDesyncFixPlugin
+[05:06:31] [main/DEBUG]: The coremod meldexun.entity_desync_fix.asm.EntityDesyncFixPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod EntityDesyncFixPlugin (meldexun.entity_desync_fix.asm.EntityDesyncFixPlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod EntityDesyncFixPlugin
+[05:06:31] [main/DEBUG]: Instantiating coremod class FMCore
+[05:06:31] [main/WARN]: The coremod de.keksuccino.fancymenu.core.FMCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/WARN]: The coremod FMCore (de.keksuccino.fancymenu.core.FMCore) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod FMCore
+[05:06:31] [main/DEBUG]: Instantiating coremod class GITDLoadingPlugin
+[05:06:31] [main/DEBUG]: The coremod bl4ckscor3.mod.getittogetherdrops.GITDLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod GITDLoadingPlugin (bl4ckscor3.mod.getittogetherdrops.GITDLoadingPlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod GITDLoadingPlugin
+[05:06:31] [main/DEBUG]: Instantiating coremod class KonkreteCore
+[05:06:31] [main/WARN]: The coremod de.keksuccino.konkrete.core.KonkreteCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:06:31] [main/WARN]: The coremod KonkreteCore (de.keksuccino.konkrete.core.KonkreteCore) is not signed!
+[05:06:31] [main/INFO]: [KONKRETE] LOADING CORE PLUGIN!
+[05:06:31] [main/INFO]: [de.keksuccino.konkrete.core.MixinConfigLoader:loadConfigs:29]: [KONKRETE] Loading Mixin Config: fancymenu.general.mixin.json
+[05:06:31] [main/DEBUG]: Enqueued coremod KonkreteCore
+[05:06:31] [main/DEBUG]: Instantiating coremod class NothiriumPlugin
+[05:06:31] [main/DEBUG]: The coremod meldexun.nothirium.mc.asm.NothiriumPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod NothiriumPlugin (meldexun.nothirium.mc.asm.NothiriumPlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod NothiriumPlugin
+[05:06:31] [main/DEBUG]: Instantiating coremod class ParticleCullingLoadingPlugin
+[05:06:31] [main/DEBUG]: The coremod bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod ParticleCullingLoadingPlugin (bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod ParticleCullingLoadingPlugin
+[05:06:31] [main/DEBUG]: Instantiating coremod class RenderLibPlugin
+[05:06:31] [main/DEBUG]: The coremod meldexun.renderlib.asm.RenderLibPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:31] [main/WARN]: The coremod RenderLibPlugin (meldexun.renderlib.asm.RenderLibPlugin) is not signed!
+[05:06:31] [main/DEBUG]: Enqueued coremod RenderLibPlugin
+[05:06:31] [main/DEBUG]: Instantiating coremod class SledgehammerLoadingPlugin
+[05:06:32] [main/TRACE]: coremod named Sledgehammer is loading
+[05:06:32] [main/DEBUG]: The coremod io.github.lxgaming.sledgehammer.launch.SledgehammerLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:32] [main/WARN]: The coremod Sledgehammer (io.github.lxgaming.sledgehammer.launch.SledgehammerLoadingPlugin) is not signed!
+[05:06:32] [main/DEBUG]: Enqueued coremod Sledgehammer
+[05:06:32] [main/DEBUG]: Instantiating coremod class MixinLoader
+[05:06:32] [main/TRACE]: coremod named SpartanWeaponry-MixinLoader is loading
+[05:06:32] [main/DEBUG]: The coremod com.oblivioussp.spartanweaponry.mixin.MixinLoader requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:32] [main/WARN]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[05:06:32] [main/DEBUG]: Enqueued coremod SpartanWeaponry-MixinLoader
+[05:06:32] [main/DEBUG]: Instantiating coremod class SurgeLoadingPlugin
+[05:06:32] [main/DEBUG]: The coremod net.darkhax.surge.core.SurgeLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:32] [main/DEBUG]: Found signing certificates for coremod SurgeLoadingPlugin (net.darkhax.surge.core.SurgeLoadingPlugin)
+[05:06:32] [main/DEBUG]: Found certificate d476d1b22b218a10d845928d1665d45fce301b27
+[05:06:32] [main/DEBUG]: Enqueued coremod SurgeLoadingPlugin
+[05:06:32] [main/DEBUG]: Instantiating coremod class PhosphorFMLLoadingPlugin
+[05:06:32] [main/DEBUG]: The coremod me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[05:06:32] [main/DEBUG]: Found signing certificates for coremod PhosphorFMLLoadingPlugin (me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin)
+[05:06:32] [main/DEBUG]: Found certificate f0387d288626cc2d937daa504e74af570c52a2f1
+[05:06:32] [main/DEBUG]: Enqueued coremod PhosphorFMLLoadingPlugin
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/INFO]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/INFO]: Loading tweak class name gg.essential.loader.stage0.EssentialSetupTweaker
+[05:06:32] [main/INFO]: Starting Essential Loader (stage2) version 1.6.5 (5f155e53084b6178706351daa6e243f9) [stable]
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:06:32] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[05:06:32] [main/INFO]: Calling tweak class io.github.lxgaming.sledgehammer.launch.SledgehammerTweaker
+[05:06:32] [main/INFO]: Successfully loaded configuration file.
+[05:06:32] [main/INFO]: Successfully saved configuration file.
+[05:06:32] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[05:06:32] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[05:06:32] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:32] [main/DEBUG]: Injecting coremod Red Core \{dev.redstudio.redcore.RedCorePlugin\} class transformers
+[05:06:32] [main/DEBUG]: Injection complete
+[05:06:32] [main/DEBUG]: Running coremod plugin for Red Core \{dev.redstudio.redcore.RedCorePlugin\}
+[05:06:32] [main/DEBUG]: Running coremod plugin Red Core
+[05:06:32] [main/DEBUG]: Coremod plugin class RedCorePlugin run successfully
+[05:06:32] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[05:06:32] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[05:06:32] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[05:06:32] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ClassTransformer
+[05:06:32] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ZIP file: D:\Applications\CurseForge\Instances\Last Days of Humanity\mods\OptiFine_1.12.2_HD_U_E3.jar
+[05:06:32] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:32] [main/DEBUG]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[05:06:32] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[05:06:32] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[05:06:32] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[05:06:32] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[05:06:32] [main/DEBUG]: Injection complete
+[05:06:32] [main/DEBUG]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[05:06:32] [main/DEBUG]: Running coremod plugin FMLCorePlugin
+[05:06:33] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[05:06:33] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[05:06:33] [main/DEBUG]: Coremod plugin class FMLCorePlugin run successfully
+[05:06:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:33] [main/DEBUG]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin FMLForgePlugin
+[05:06:33] [main/DEBUG]: Coremod plugin class FMLForgePlugin run successfully
+[05:06:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:33] [main/DEBUG]: Injecting coremod BiggerPacketsPlzCoreMod \{net.elnounch.mc.biggerpacketsplz.BiggerPacketsPlzCoreMod\} class transformers
+[05:06:33] [main/TRACE]: Registering transformer net.elnounch.mc.biggerpacketsplz.BiggerPacketsPlzClassTransformer
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for BiggerPacketsPlzCoreMod \{net.elnounch.mc.biggerpacketsplz.BiggerPacketsPlzCoreMod\}
+[05:06:33] [main/DEBUG]: Running coremod plugin BiggerPacketsPlzCoreMod
+[05:06:33] [main/DEBUG]: Coremod plugin class BiggerPacketsPlzCoreMod run successfully
+[05:06:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:33] [main/DEBUG]: Injecting coremod CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\}
+[05:06:33] [main/DEBUG]: Running coremod plugin CreativePatchingLoader
+[05:06:33] [main/DEBUG]: Coremod plugin class CreativePatchingLoader run successfully
+[05:06:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:33] [main/DEBUG]: Injecting coremod DLFMLCorePlugin \{atomicstryker.dynamiclights.common.DLFMLCorePlugin\} class transformers
+[05:06:33] [main/TRACE]: Registering transformer atomicstryker.dynamiclights.common.DLTransformer
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for DLFMLCorePlugin \{atomicstryker.dynamiclights.common.DLFMLCorePlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin DLFMLCorePlugin
+[05:06:33] [main/DEBUG]: Coremod plugin class DLFMLCorePlugin run successfully
+[05:06:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:33] [main/DEBUG]: Injecting coremod FermiumASM \{mirror.normalasm.core.NormalLoadingPlugin\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for FermiumASM \{mirror.normalasm.core.NormalLoadingPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin FermiumASM
+[05:06:33] [main/DEBUG]: Coremod plugin class NormalLoadingPlugin run successfully
+[05:06:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:33] [main/DEBUG]: Injecting coremod ForgelinPlugin \{net.shadowfacts.forgelin.preloader.ForgelinPlugin\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for ForgelinPlugin \{net.shadowfacts.forgelin.preloader.ForgelinPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin ForgelinPlugin
+[05:06:33] [main/DEBUG]: Coremod plugin class ForgelinPlugin run successfully
+[05:06:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:33] [main/DEBUG]: Injecting coremod IvToolkit \{ivorius.ivtoolkit.IvToolkitLoadingPlugin\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for IvToolkit \{ivorius.ivtoolkit.IvToolkitLoadingPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin IvToolkit
+[05:06:33] [main/DEBUG]: Coremod plugin class IvToolkitLoadingPlugin run successfully
+[05:06:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:33] [main/DEBUG]: Injecting coremod JeiUtilitiesLoadingPlugin \{com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin\} class transformers
+[05:06:33] [main/TRACE]: Registering transformer com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesClassTransformer
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for JeiUtilitiesLoadingPlugin \{com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin JeiUtilitiesLoadingPlugin
+[05:06:33] [main/DEBUG]: Coremod plugin class JeiUtilitiesLoadingPlugin run successfully
+[05:06:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:33] [main/DEBUG]: Injecting coremod PCF Core Mod \{nathan.phosphorcrashfix.core.PCFCoreMod\} class transformers
+[05:06:33] [main/TRACE]: Registering transformer nathan.phosphorcrashfix.patches.PhosphorSlicePatch
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for PCF Core Mod \{nathan.phosphorcrashfix.core.PCFCoreMod\}
+[05:06:33] [main/DEBUG]: Running coremod plugin PCF Core Mod
+[05:06:33] [main/DEBUG]: Coremod plugin class PCFCoreMod run successfully
+[05:06:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:33] [main/DEBUG]: Injecting coremod TenshiCore \{com.flemmli97.tenshilib.asm.ASMLoader\} class transformers
+[05:06:33] [main/TRACE]: Registering transformer com.flemmli97.tenshilib.asm.ASMTransformer
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for TenshiCore \{com.flemmli97.tenshilib.asm.ASMLoader\}
+[05:06:33] [main/DEBUG]: Running coremod plugin TenshiCore
+[05:06:33] [main/DEBUG]: Coremod plugin class ASMLoader run successfully
+[05:06:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:33] [main/DEBUG]: Injecting coremod TickrateChanger \{me.guichaguri.tickratechanger.TickrateChanger\} class transformers
+[05:06:33] [main/TRACE]: Registering transformer me.guichaguri.tickratechanger.TickrateTransformer
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for TickrateChanger \{me.guichaguri.tickratechanger.TickrateChanger\}
+[05:06:33] [main/DEBUG]: Running coremod plugin TickrateChanger
+[05:06:33] [main/DEBUG]: Coremod plugin class TickrateChanger run successfully
+[05:06:33] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[05:06:33] [main/ERROR]: Mixin config mixins.mixincompat.json does not specify "minVersion" property
+[05:06:33] [main/ERROR]: Mixin config mixins.ldoh.json does not specify "minVersion" property
+[05:06:33] [main/ERROR]: Mixin config mixins.serverpauser.json does not specify "minVersion" property
+[05:06:33] [main/ERROR]: Mixin config mixins.tf2stuff-reloaded.json does not specify "minVersion" property
+[05:06:33] [main/ERROR]: Mixin config mixins.hordes.json does not specify "minVersion" property
+[05:06:33] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@39179470
+[05:06:33] [main/DEBUG]: Injecting coremod SuperMartijn642's Core Lib Plugin \{com.supermartijn642.core.coremod.CoreModPlugin\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for SuperMartijn642's Core Lib Plugin \{com.supermartijn642.core.coremod.CoreModPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin SuperMartijn642's Core Lib Plugin
+[05:06:33] [main/DEBUG]: Coremod plugin class CoreModPlugin run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod FermiumBooter \{fermiumbooter.FermiumPlugin\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for FermiumBooter \{fermiumbooter.FermiumPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin FermiumBooter
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.datastructures_modelmanager.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.resolve_mc2071.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.recipes.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.vanities.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.internal.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.vfix_bugfixes.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.fix_mc186052.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.fix_mc_skindownloading.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.misc_fluidregistry.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.forgefixes.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.crashes.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.capability.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.registries.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.screenshot.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.fix_mc129057.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.rendering.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.searchtree_vanilla.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.efficienthashing.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.stripitemstack.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.bucket.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.priorities.json" for early mixin application.
+[05:06:33] [main/INFO]: FermiumBooter adding "mixins.lockcode.json" for early mixin application.
+[05:06:33] [main/DEBUG]: Coremod plugin class FermiumPlugin run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod TransformLoader \{org.orecruncher.dsurround.mixins.TransformLoader\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for TransformLoader \{org.orecruncher.dsurround.mixins.TransformLoader\}
+[05:06:33] [main/DEBUG]: Running coremod plugin TransformLoader
+[05:06:33] [main/DEBUG]: Coremod plugin class TransformLoader run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod EntityCullingPlugin \{meldexun.entityculling.asm.EntityCullingPlugin\} class transformers
+[05:06:33] [main/TRACE]: Registering transformer meldexun.entityculling.asm.EntityCullingClassTransformer
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for EntityCullingPlugin \{meldexun.entityculling.asm.EntityCullingPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin EntityCullingPlugin
+[05:06:33] [main/DEBUG]: Coremod plugin class EntityCullingPlugin run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod EntityDesyncFixPlugin \{meldexun.entity_desync_fix.asm.EntityDesyncFixPlugin\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for EntityDesyncFixPlugin \{meldexun.entity_desync_fix.asm.EntityDesyncFixPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin EntityDesyncFixPlugin
+[05:06:33] [main/DEBUG]: Coremod plugin class EntityDesyncFixPlugin run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod FMCore \{de.keksuccino.fancymenu.core.FMCore\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for FMCore \{de.keksuccino.fancymenu.core.FMCore\}
+[05:06:33] [main/DEBUG]: Running coremod plugin FMCore
+[05:06:33] [main/DEBUG]: Coremod plugin class FMCore run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod GITDLoadingPlugin \{bl4ckscor3.mod.getittogetherdrops.GITDLoadingPlugin\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for GITDLoadingPlugin \{bl4ckscor3.mod.getittogetherdrops.GITDLoadingPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin GITDLoadingPlugin
+[05:06:33] [main/DEBUG]: Coremod plugin class GITDLoadingPlugin run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod KonkreteCore \{de.keksuccino.konkrete.core.KonkreteCore\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for KonkreteCore \{de.keksuccino.konkrete.core.KonkreteCore\}
+[05:06:33] [main/DEBUG]: Running coremod plugin KonkreteCore
+[05:06:33] [main/DEBUG]: Coremod plugin class KonkreteCore run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod NothiriumPlugin \{meldexun.nothirium.mc.asm.NothiriumPlugin\} class transformers
+[05:06:33] [main/TRACE]: Registering transformer meldexun.nothirium.mc.asm.NothiriumClassTransformer
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for NothiriumPlugin \{meldexun.nothirium.mc.asm.NothiriumPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin NothiriumPlugin
+[05:06:33] [main/DEBUG]: Coremod plugin class NothiriumPlugin run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod ParticleCullingLoadingPlugin \{bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for ParticleCullingLoadingPlugin \{bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin ParticleCullingLoadingPlugin
+[05:06:33] [main/DEBUG]: Coremod plugin class ParticleCullingLoadingPlugin run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod RenderLibPlugin \{meldexun.renderlib.asm.RenderLibPlugin\} class transformers
+[05:06:33] [main/TRACE]: Registering transformer meldexun.renderlib.asm.RenderLibClassTransformer
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for RenderLibPlugin \{meldexun.renderlib.asm.RenderLibPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin RenderLibPlugin
+[05:06:33] [main/DEBUG]: Coremod plugin class RenderLibPlugin run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod Sledgehammer \{io.github.lxgaming.sledgehammer.launch.SledgehammerLoadingPlugin\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for Sledgehammer \{io.github.lxgaming.sledgehammer.launch.SledgehammerLoadingPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin Sledgehammer
+[05:06:33] [main/DEBUG]: Coremod plugin class SledgehammerLoadingPlugin run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod SpartanWeaponry-MixinLoader \{com.oblivioussp.spartanweaponry.mixin.MixinLoader\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for SpartanWeaponry-MixinLoader \{com.oblivioussp.spartanweaponry.mixin.MixinLoader\}
+[05:06:33] [main/DEBUG]: Running coremod plugin SpartanWeaponry-MixinLoader
+[05:06:33] [main/DEBUG]: Coremod plugin class MixinLoader run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod SurgeLoadingPlugin \{net.darkhax.surge.core.SurgeLoadingPlugin\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for SurgeLoadingPlugin \{net.darkhax.surge.core.SurgeLoadingPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin SurgeLoadingPlugin
+[05:06:33] [main/DEBUG]: Coremod plugin class SurgeLoadingPlugin run successfully
+[05:06:33] [main/DEBUG]: Injecting coremod PhosphorFMLLoadingPlugin \{me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin\} class transformers
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for PhosphorFMLLoadingPlugin \{me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin\}
+[05:06:33] [main/DEBUG]: Running coremod plugin PhosphorFMLLoadingPlugin
+[05:06:33] [main/DEBUG]: Coremod plugin class PhosphorFMLLoadingPlugin run successfully
+[05:06:33] [main/INFO]: Calling tweak class gg.essential.loader.stage0.EssentialSetupTweaker
+[05:06:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:33] [main/DEBUG]: Injecting coremod CosmicLibFakeCoreMod \{com.cosmicdan.cosmiclib.asm.FakeCoreMod\} class transformers
+[05:06:33] [main/INFO]: [i] FakeCoreMod loading ASM helper classes...
+[05:06:33] [main/DEBUG]: Injection complete
+[05:06:33] [main/DEBUG]: Running coremod plugin for CosmicLibFakeCoreMod \{com.cosmicdan.cosmiclib.asm.FakeCoreMod\}
+[05:06:33] [main/DEBUG]: Running coremod plugin CosmicLibFakeCoreMod
+[05:06:33] [main/DEBUG]: Coremod plugin class FakeCoreMod run successfully
+[05:06:33] [main/INFO]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[05:06:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[05:06:33] [main/INFO]: FermiumASM is now preparing to bytecode manipulate your game.
+[05:06:33] [main/INFO]: Optifine is installed. BakedQuads won't be squashed as it is incompatible with OptiFine.
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.renderer.block.model.BakedQuad to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.renderer.block.model.ModelResourceLocation to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.audio.SoundEventAccessor to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.audio.SoundRegistry to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraftforge.client.model.ModelLoader to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.renderer.block.statemap.StateMapperBase to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.renderer.BlockModelShapes to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.renderer.block.statemap.BlockStateMapper to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.renderer.RenderGlobal to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.renderer.RenderHelper to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.renderer.texture.TextureAtlasSprite to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.Minecraft to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.network.NetHandlerPlayClient to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.renderer.RenderGlobal to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.renderer.chunk.RenderChunk to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.util.ResourceLocation to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.util.registry.RegistrySimple to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.nbt.NBTTagString to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraftforge.fml.common.discovery.ModCandidate to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraftforge.fml.common.discovery.ASMDataTable$ASMData to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.item.ItemStack to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.item.crafting.FurnaceRecipes to the transformation queue
+[05:06:33] [main/INFO]: Adding class hellfirepvp.astralsorcery.common.enchantment.amulet.PlayerAmuletHandler to the transformation queue
+[05:06:33] [main/INFO]: Adding class mezz.jei.suffixtree.Edge to the transformation queue
+[05:06:33] [main/INFO]: Adding class betterwithmods.event.BlastingOilEvent to the transformation queue
+[05:06:33] [main/INFO]: Adding class betterwithmods.common.items.ItemMaterial to the transformation queue
+[05:06:33] [main/INFO]: Adding class lach_01298.qmd.render.entity.BeamRenderer to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.dries007.tfc.objects.entity.EntityFallingBlockTFC to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.item.ItemStack to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.renderer.EntityRenderer to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.client.renderer.EntityRenderer to the transformation queue
+[05:06:33] [main/INFO]: Adding class net.minecraft.nbt.NBTTagCompound to the transformation queue
+[05:06:33] [main/DEBUG]: Validating minecraft
+[05:06:34] [main/INFO]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[05:06:34] [main/INFO]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[05:06:34] [main/INFO]: [atomicstryker.dynamiclights.common.DLTransformer:handleWorldTransform:80]: **************** Dynamic Lights transform running on World, obf: true *********************** 
+[05:06:34] [main/INFO]: [atomicstryker.dynamiclights.common.DLTransformer:handleWorldTransform:91]: In target method a:(Let;Lana;)I, Patching!
+[05:06:34] [main/INFO]: [atomicstryker.dynamiclights.common.DLTransformer:handleWorldTransform:148]: Found ASTORE Node at index 19, is writing variable number: 3
+[05:06:34] [main/INFO]: Patching net.minecraft.client.entity.EntityPlayerSP... (bud)
+[05:06:34] [main/INFO]: A re-entrant transformer 'guichaguri.betterfps.transformers.PatcherTransformer' was detected and will no longer process meta class data
+[05:06:34] [main/INFO]: [com.flemmli97.tenshilib.asm.ASMTransformer:asmDebug:43]: [TenshiCore]: Patching Minecraft.clickMouse
+[05:06:34] [main/INFO]: Initializing MixinExtras via gg.essential.lib.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
+[05:06:34] [main/DEBUG]: Minecraft validated, launching...
+[05:06:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:34] [main/DEBUG]: Injecting coremod Backpacked \{com.mrcrayfish.backpacked.asm.BackpackedPlugin\} class transformers
+[05:06:34] [main/TRACE]: Registering transformer com.mrcrayfish.backpacked.asm.BackpackedTransformer
+[05:06:34] [main/DEBUG]: Injection complete
+[05:06:34] [main/DEBUG]: Running coremod plugin for Backpacked \{com.mrcrayfish.backpacked.asm.BackpackedPlugin\}
+[05:06:34] [main/DEBUG]: Running coremod plugin Backpacked
+[05:06:34] [main/DEBUG]: Coremod plugin class BackpackedPlugin run successfully
+[05:06:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:34] [main/DEBUG]: Injecting coremod LoadingPlugin \{lumien.chunkanimator.asm.LoadingPlugin\} class transformers
+[05:06:34] [main/TRACE]: Registering transformer lumien.chunkanimator.asm.ClassTransformer
+[05:06:34] [main/DEBUG]: Injection complete
+[05:06:34] [main/DEBUG]: Running coremod plugin for LoadingPlugin \{lumien.chunkanimator.asm.LoadingPlugin\}
+[05:06:34] [main/DEBUG]: Running coremod plugin LoadingPlugin
+[05:06:34] [main/DEBUG]: Coremod plugin class LoadingPlugin run successfully
+[05:06:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:34] [main/DEBUG]: Injecting coremod LoadingPlugin \{lumien.hardcoredarkness.asm.LoadingPlugin\} class transformers
+[05:06:34] [main/TRACE]: Registering transformer lumien.hardcoredarkness.asm.ClassTransformer
+[05:06:34] [main/DEBUG]: Injection complete
+[05:06:34] [main/DEBUG]: Running coremod plugin for LoadingPlugin \{lumien.hardcoredarkness.asm.LoadingPlugin\}
+[05:06:34] [main/DEBUG]: Running coremod plugin LoadingPlugin
+[05:06:34] [main/DEBUG]: Coremod plugin class LoadingPlugin run successfully
+[05:06:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:34] [main/DEBUG]: Injecting coremod Inventory Tweaks Coremod \{invtweaks.forge.asm.FMLPlugin\} class transformers
+[05:06:34] [main/TRACE]: Registering transformer invtweaks.forge.asm.ContainerTransformer
+[05:06:34] [main/DEBUG]: Injection complete
+[05:06:34] [main/DEBUG]: Running coremod plugin for Inventory Tweaks Coremod \{invtweaks.forge.asm.FMLPlugin\}
+[05:06:34] [main/DEBUG]: Running coremod plugin Inventory Tweaks Coremod
+[05:06:34] [main/DEBUG]: Coremod plugin class FMLPlugin run successfully
+[05:06:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:34] [main/DEBUG]: Injecting coremod Plugin \{ru.fewizz.neid.asm.Plugin\} class transformers
+[05:06:34] [main/TRACE]: Registering transformer ru.fewizz.neid.asm.Transformer
+[05:06:34] [main/DEBUG]: Injection complete
+[05:06:34] [main/DEBUG]: Running coremod plugin for Plugin \{ru.fewizz.neid.asm.Plugin\}
+[05:06:34] [main/DEBUG]: Running coremod plugin Plugin
+[05:06:34] [main/DEBUG]: Coremod plugin class Plugin run successfully
+[05:06:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:34] [main/DEBUG]: Injecting coremod ObfuscatePlugin \{com.mrcrayfish.obfuscate.asm.ObfuscatePlugin\} class transformers
+[05:06:34] [main/TRACE]: Registering transformer com.mrcrayfish.obfuscate.asm.ObfuscateTransformer
+[05:06:34] [main/DEBUG]: Injection complete
+[05:06:34] [main/DEBUG]: Running coremod plugin for ObfuscatePlugin \{com.mrcrayfish.obfuscate.asm.ObfuscatePlugin\}
+[05:06:34] [main/DEBUG]: Running coremod plugin ObfuscatePlugin
+[05:06:34] [main/DEBUG]: Coremod plugin class ObfuscatePlugin run successfully
+[05:06:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:06:34] [main/DEBUG]: Injecting coremod AppleCore \{squeek.applecore.AppleCore\} class transformers
+[05:06:34] [main/TRACE]: Registering transformer squeek.applecore.asm.TransformerModuleHandler
+[05:06:34] [main/DEBUG]: Injection complete
+[05:06:34] [main/DEBUG]: Running coremod plugin for AppleCore \{squeek.applecore.AppleCore\}
+[05:06:34] [main/DEBUG]: Running coremod plugin AppleCore
+[05:06:34] [main/DEBUG]: Coremod plugin class AppleCore run successfully
+[05:06:34] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[05:06:34] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[05:06:34] [main/INFO]: Loading tweak class name gg.essential.asm.compat.betterfps.tweaker.BetterFpsWrappingTweaker
+[05:06:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[05:06:34] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[05:06:34] [main/INFO]: Calling tweak class gg.essential.asm.compat.betterfps.tweaker.BetterFpsWrappingTweaker
+[05:06:34] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[05:06:34] [main/WARN]: Reference map 'mixins.mixincompat.refmap.json' for mixins.mixincompat.json could not be read. If this is a development environment you can ignore this message
+[05:06:35] [main/INFO]: Starting Essential v1.3.6.2 (#3a04f60330) [stable]
+[05:06:35] [main/INFO]: Patching class: "net.minecraftforge.registries.GameData" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[05:06:35] [main/INFO]: A re-entrant transformer '$wrapper.ru.fewizz.neid.asm.Transformer' was detected and will no longer process meta class data
+[05:06:35] [main/INFO]: [KONKRETE] APPLYING MIXIN: de.keksuccino.konkrete.mixin.client.MixinMinecraft | TO TARGET: net.minecraft.client.Minecraft
+[05:06:35] [main/INFO]: APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiButton | TO TARGET: net.minecraft.client.gui.GuiButton
+[05:06:35] [main/INFO]: APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiButtonImage | TO TARGET: net.minecraft.client.gui.GuiButtonImage
+[05:06:35] [main/INFO]: APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiSlot | TO TARGET: net.minecraft.client.gui.GuiSlot
+[05:06:35] [main/INFO]: APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiScreen | TO TARGET: net.minecraft.client.gui.GuiScreen
+[05:06:35] [main/INFO]: APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiButtonLanguage | TO TARGET: net.minecraft.client.gui.GuiButtonLanguage
+[05:06:35] [main/INFO]: APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinMinecraft | TO TARGET: net.minecraft.client.Minecraft
+[05:06:35] [main/INFO]: APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinScaledResolution | TO TARGET: net.minecraft.client.gui.ScaledResolution
+[05:06:35] [main/INFO]: APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiScreenResourcePacks | TO TARGET: net.minecraft.client.gui.GuiScreenResourcePacks
+[05:06:35] [main/INFO]: APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinOnlineServerEntry | TO TARGET: net.minecraft.client.gui.ServerListEntryNormal
+[05:06:35] [main/INFO]: APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinWorldListEntry | TO TARGET: net.minecraft.client.gui.GuiListWorldSelectionEntry
+[05:06:35] [main/INFO]: APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinConnectScreen | TO TARGET: net.minecraft.client.gui.GuiMultiplayer
+[05:06:35] [main/INFO]: Transforming method: setWorldAndLoadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:35] [main/INFO]: Transforming method: loadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:35] [main/INFO]: Transforming method: RenderGlobal#renderEntities(Entity, ICamera, float)
+[05:06:35] [main/WARN]: Error loading class: net/minecraft/client/renderer/RenderGlobal (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer meldexun.renderlib.asm.RenderLibClassTransformer@4f50e974 from coremod RenderLibPlugin)
+[05:06:35] [main/WARN]: @Mixin target net.minecraft.client.renderer.RenderGlobal was not found mixins.particleculling.json:MixinRenderGlobal
+[05:06:35] [main/INFO]: Patching sound system...
+[05:06:35] [main/INFO]: Transforming method: setWorldAndLoadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:35] [main/INFO]: Transforming method: loadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:35] [main/INFO]: Transforming method: RenderGlobal#renderEntities(Entity, ICamera, float)
+[05:06:35] [main/WARN]: Error loading class: net/minecraft/client/renderer/RenderGlobal (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer meldexun.renderlib.asm.RenderLibClassTransformer@4f50e974 from coremod RenderLibPlugin)
+[05:06:35] [main/WARN]: @Mixin target net.minecraft.client.renderer.RenderGlobal was not found mixins.entityculling.json:MixinRenderGlobal
+[05:06:35] [main/WARN]: Error loading class: net/malisis/core/renderer/AnimatedRenderer (java.lang.ClassNotFoundException: The specified class 'net.malisis.core.renderer.AnimatedRenderer' was not found)
+[05:06:35] [main/WARN]: Error loading class: fionathemortal/betterbiomeblend/BiomeColor (java.lang.ClassNotFoundException: The specified class 'fionathemortal.betterbiomeblend.BiomeColor' was not found)
+[05:06:35] [main/INFO]: Transforming method: setWorldAndLoadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:35] [main/INFO]: Transforming method: loadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:35] [main/INFO]: Transforming method: RenderGlobal#renderEntities(Entity, ICamera, float)
+[05:06:35] [main/WARN]: Error loading class: net/minecraft/client/renderer/RenderGlobal (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer meldexun.renderlib.asm.RenderLibClassTransformer@4f50e974 from coremod RenderLibPlugin)
+[05:06:35] [main/WARN]: @Mixin target net.minecraft.client.renderer.RenderGlobal was not found mixins.nothirium.json:MixinRenderGlobal
+[05:06:35] [main/INFO]: Transforming method: RenderManager#renderEntity(Entity, double, double, double, float, float, boolean)
+[05:06:35] [main/INFO]: Transforming method: setWorldAndLoadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:35] [main/INFO]: Transforming method: loadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:35] [main/INFO]: Transforming method: RenderGlobal#renderEntities(Entity, ICamera, float)
+[05:06:35] [main/WARN]: Error loading class: net/minecraft/client/renderer/RenderGlobal (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer meldexun.renderlib.asm.RenderLibClassTransformer@4f50e974 from coremod RenderLibPlugin)
+[05:06:35] [main/WARN]: @Mixin target net.minecraft.client.renderer.RenderGlobal was not found mixins.renderlib.json:tileentity.MixinRenderGlobal
+[05:06:35] [main/INFO]: Transforming method: setWorldAndLoadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:35] [main/INFO]: Transforming method: loadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:35] [main/INFO]: Transforming method: RenderGlobal#renderEntities(Entity, ICamera, float)
+[05:06:35] [main/WARN]: Error loading class: net/minecraft/client/renderer/RenderGlobal (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer meldexun.renderlib.asm.RenderLibClassTransformer@4f50e974 from coremod RenderLibPlugin)
+[05:06:35] [main/WARN]: @Mixin target net.minecraft.client.renderer.RenderGlobal was not found mixins.renderlib.json:MixinRenderGlobal
+[05:06:35] [main/INFO]: Applying ASM to RenderItem
+[05:06:35] [main/INFO]: Successfully patched RenderItem
+[05:06:35] [main/INFO]: Improving FurnaceRecipes. Lookups are now a lot faster.
+[05:06:36] [main/INFO]: Applying ASM to Minecraft methods...
+[05:06:36] [main/INFO]: Patching setBlockStateInjectGenerateSkylightMapVanilla in MixinChunk$Vanilla
+[05:06:36] [main/INFO]: Patching setBlockStatePreventPropagateSkylightOcclusion1 in MixinChunk$Vanilla
+[05:06:36] [main/INFO]: Patching setBlockStatePreventPropagateSkylightOcclusion2 in MixinChunk$Vanilla
+[05:06:36] [main/INFO]: [com.flemmli97.tenshilib.asm.ASMTransformer:asmDebug:43]: [TenshiCore]: Patching Minecraft.clickMouse
+[05:06:36] [main/INFO]: [com.flemmli97.tenshilib.asm.ASMTransformer:asmDebug:43]: [TenshiCore]: Patching Minecraft.clickMouse
+[05:06:36] [main/INFO]: [com.flemmli97.tenshilib.asm.ASMTransformer:asmDebug:43]: [TenshiCore]: Patching Minecraft.clickMouse
+[05:06:36] [main/INFO]: InvTweaks: successfully transformed setFocused/func_146195_b
+[05:06:36] [main/INFO]: [com.flemmli97.tenshilib.asm.ASMTransformer:asmDebug:43]: [TenshiCore]: Patching ModelPlayer.doRender (Actually ModelBiped.doRender)
+[05:06:36] [main/INFO]: [com.flemmli97.tenshilib.asm.ASMTransformer:asmDebug:43]: [TenshiCore]: Patching LayerHeldItem.doRenderLayer
+[05:06:36] [main/INFO]: Transforming method: setWorldAndLoadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:36] [main/INFO]: Transforming method: loadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:36] [main/INFO]: Transforming method: RenderGlobal#renderEntities(Entity, ICamera, float)
+[05:06:36] [main/WARN]: Error loading class: net/minecraft/client/renderer/RenderGlobal (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer meldexun.renderlib.asm.RenderLibClassTransformer@4f50e974 from coremod RenderLibPlugin)
+[05:06:36] [main/WARN]: @Mixin target net.minecraft.client.renderer.RenderGlobal was not found mixins.essential.json:client.renderer.entity.Mixin_RenderExtraClientCosmeticGeometryInFirstPerson
+[05:06:36] [main/INFO]: Transforming method: setWorldAndLoadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:36] [main/INFO]: Transforming method: loadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:36] [main/INFO]: Transforming method: RenderGlobal#renderEntities(Entity, ICamera, float)
+[05:06:36] [main/WARN]: Error loading class: net/minecraft/client/renderer/RenderGlobal (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer meldexun.renderlib.asm.RenderLibClassTransformer@4f50e974 from coremod RenderLibPlugin)
+[05:06:36] [main/WARN]: @Mixin target net.minecraft.client.renderer.RenderGlobal was not found mixins.essential.json:feature.cosmetics.Mixin_UpdateCosmetics
+[05:06:36] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[05:06:36] [main/INFO]: [com.flemmli97.tenshilib.asm.ASMTransformer:asmDebug:43]: [TenshiCore]: Patching Minecraft.clickMouse
+[05:06:36] [main/INFO]: Patching net.minecraft.client.Minecraft... (bib)
+[05:06:36] [main/INFO]: Patching math utils with "RIVENS" algorithm
+[05:06:36] [main/WARN]: @Redirect conflict. Skipping mixins.essential.json:client.Mixin_CancelVanillaScreenshotHotkey->@Redirect::run(Ljava/io/File;IILnet/minecraft/client/shader/Framebuffer;)Lnet/minecraft/util/text/ITextComponent; with priority 1000, already redirected by mixins.screenshot.json:MinecraftMixin->@Redirect::runAsyncScreenshotProcessing(Ljava/io/File;IILnet/minecraft/client/shader/Framebuffer;)Lnet/minecraft/util/text/ITextComponent; with priority 1000
+[05:06:36] [main/INFO]: [com.mrcrayfish.backpacked.asm.BackpackedTransformer:patch:68]: [Backpacked] Starting to patch: net.minecraft.entity.player.EntityPlayer#<init>(Lnet/minecraft/world/World;Lcom/mojang/authlib/GameProfile;)V
+[05:06:36] [main/INFO]: [com.mrcrayfish.backpacked.asm.BackpackedTransformer:patch:71]: [Backpacked] Successfully patched: net.minecraft.entity.player.EntityPlayer#<init>(Lnet/minecraft/world/World;Lcom/mojang/authlib/GameProfile;)V
+[05:06:36] [main/INFO]: Patching net.minecraft.client.entity.EntityPlayerSP... (bud)
+[05:06:37] [main/INFO]: [atomicstryker.dynamiclights.common.DLTransformer:handleWorldTransform:80]: **************** Dynamic Lights transform running on World, obf: true *********************** 
+[05:06:37] [main/INFO]: [atomicstryker.dynamiclights.common.DLTransformer:handleWorldTransform:91]: In target method a:(Let;Lana;)I, Patching!
+[05:06:37] [main/INFO]: [atomicstryker.dynamiclights.common.DLTransformer:handleWorldTransform:148]: Found ASTORE Node at index 19, is writing variable number: 3
+[05:06:37] [main/INFO]: [com.mrcrayfish.backpacked.asm.BackpackedTransformer:patch:68]: [Backpacked] Starting to patch: net.minecraft.client.gui.inventory.GuiContainer#drawScreen(IIF)V
+[05:06:37] [main/INFO]: [com.mrcrayfish.backpacked.asm.BackpackedTransformer:patch:71]: [Backpacked] Successfully patched: net.minecraft.client.gui.inventory.GuiContainer#drawScreen(IIF)V
+[05:06:37] [main/INFO]: [com.mrcrayfish.backpacked.asm.BackpackedTransformer:patch:68]: [Backpacked] Starting to patch: net.minecraft.client.gui.inventory.GuiContainer#drawScreen(IIF)V
+[05:06:37] [main/INFO]: [com.mrcrayfish.backpacked.asm.BackpackedTransformer:patch:71]: [Backpacked] Successfully patched: net.minecraft.client.gui.inventory.GuiContainer#drawScreen(IIF)V
+[05:06:37] [main/INFO]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[05:06:37] [main/INFO]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[05:06:37] [main/INFO]: Applying ASM to Minecraft methods...
+[05:06:37] [main/INFO]: Transforming class 'gy', alias 'net.minecraft.network.PacketBuffer'
+[05:06:37] [main/INFO]: Scanning method 'j()Lfy;'
+[05:06:37] [main/INFO]: Patching constant (java.lang.Long) 2097152
+[05:06:37] [main/INFO]: Transforming method: setWorldAndLoadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:37] [main/INFO]: Transforming method: loadRenderers net/minecraft/client/renderer/RenderGlobal
+[05:06:37] [main/INFO]: Transforming method: RenderGlobal#renderEntities(Entity, ICamera, float)
+[05:06:37] [main/WARN]: Error loading class: net/minecraft/client/renderer/RenderGlobal (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer meldexun.renderlib.asm.RenderLibClassTransformer@4f50e974 from coremod RenderLibPlugin)
+[05:06:37] [main/INFO]: Instancing error handler class gg.essential.mixins.MixinErrorHandler
+[05:06:37] [main/FATAL]: Mixin apply failed supermartijn642corelib.mixins.json:LevelRendererMixin -> net.minecraftforge.client.ForgeHooksClient: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException Unexpecteded ClassMetadataNotFoundException whilst transforming the mixin class: [MAIN Applicator Phase -> supermartijn642corelib.mixins.json:LevelRendererMixin -> Apply Methods -> (Lnet/minecraft/client/renderer/RenderGlobal;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V:handler$zcg000$dispatchRenderLast -> Transform LVT -> var=context -> desc=Lnet/minecraft/client/renderer/RenderGlobal;]
+org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Unexpecteded ClassMetadataNotFoundException whilst transforming the mixin class: [MAIN Applicator Phase -> supermartijn642corelib.mixins.json:LevelRendererMixin -> Apply Methods -> (Lnet/minecraft/client/renderer/RenderGlobal;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V:handler$zcg000$dispatchRenderLast -> Transform LVT -> var=context -> desc=Lnet/minecraft/client/renderer/RenderGlobal;]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.transformMethod(MixinTargetContext.java:491) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyNormalMethod(MixinApplicatorStandard.java:532) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMethods(MixinApplicatorStandard.java:518) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:386) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) [Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) [Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) [Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) [Essential%20(forge_1.12.2).processed.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) [?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) [?:1.8.0_51]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:335) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124) [stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:328) [stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) [stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) [stage2.forge_1.12.2.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) [stage1.jar:9]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) [stage1.jar:9]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) [?:1.8.0_51]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) [Essential_1-3-6-2_forge_1-12-2.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) [Essential_1-3-6-2_forge_1-12-2.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) [?:1.8.0_51]
+	at java.lang.Class.newInstance(Class.java:442) [?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: org.spongepowered.asm.mixin.throwables.ClassMetadataNotFoundException: net.minecraft.client.renderer.RenderGlobal
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.transformSingleDescriptor(MixinTargetContext.java:983) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.transformSingleDescriptor(MixinTargetContext.java:943) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.transformLVT(MixinTargetContext.java:544) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.transformMethod(MixinTargetContext.java:450) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	... 49 more
+[05:06:37] [main/ERROR]: Unable to launch
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124) [stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:328) [stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) [stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) [stage2.forge_1.12.2.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) [stage1.jar:9]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) [stage1.jar:9]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) [?:1.8.0_51]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) [Essential_1-3-6-2_forge_1-12-2.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) [Essential_1-3-6-2_forge_1-12-2.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) [?:1.8.0_51]
+	at java.lang.Class.newInstance(Class.java:442) [?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.NoClassDefFoundError: net/minecraftforge/client/ForgeHooksClient
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:335) ~[bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) ~[Main.class:?]
+	... 33 more
+Caused by: java.lang.ClassNotFoundException: net.minecraftforge.client.ForgeHooksClient
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:335) ~[bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) ~[Main.class:?]
+	... 33 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:335) ~[bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) ~[Main.class:?]
+	... 33 more
+Caused by: org.spongepowered.asm.mixin.throwables.MixinApplyError: Mixin [supermartijn642corelib.mixins.json:LevelRendererMixin] from phase [DEFAULT] in config [supermartijn642corelib.mixins.json] FAILED during APPLY
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinError(MixinProcessor.java:636) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinApplyError(MixinProcessor.java:588) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:379) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:335) ~[bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) ~[Main.class:?]
+	... 33 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Unexpecteded ClassMetadataNotFoundException whilst transforming the mixin class: [MAIN Applicator Phase -> supermartijn642corelib.mixins.json:LevelRendererMixin -> Apply Methods -> (Lnet/minecraft/client/renderer/RenderGlobal;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V:handler$zcg000$dispatchRenderLast -> Transform LVT -> var=context -> desc=Lnet/minecraft/client/renderer/RenderGlobal;]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.transformMethod(MixinTargetContext.java:491) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyNormalMethod(MixinApplicatorStandard.java:532) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMethods(MixinApplicatorStandard.java:518) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:386) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:335) ~[bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) ~[Main.class:?]
+	... 33 more
+Caused by: org.spongepowered.asm.mixin.throwables.ClassMetadataNotFoundException: net.minecraft.client.renderer.RenderGlobal
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.transformSingleDescriptor(MixinTargetContext.java:983) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.transformSingleDescriptor(MixinTargetContext.java:943) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.transformLVT(MixinTargetContext.java:544) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.transformMethod(MixinTargetContext.java:450) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyNormalMethod(MixinApplicatorStandard.java:532) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMethods(MixinApplicatorStandard.java:518) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:386) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) ~[Essential%20(forge_1.12.2).processed.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:335) ~[bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) ~[Main.class:?]
+	... 33 more
+[05:06:37] [main/ERROR]: Unable to launch
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:28) ~[Essential_1-3-6-2_forge_1-12-2.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_51]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_51]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) ~[Essential_1-3-6-2_forge_1-12-2.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) ~[Essential_1-3-6-2_forge_1-12-2.jar:?]
+	... 7 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) ~[stage1.jar:9]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) ~[stage1.jar:9]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_51]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) ~[Essential_1-3-6-2_forge_1-12-2.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) ~[Essential_1-3-6-2_forge_1-12-2.jar:?]
+	... 7 more
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:128) ~[stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:328) ~[stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) ~[stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) ~[stage2.forge_1.12.2.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) ~[stage1.jar:9]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) ~[stage1.jar:9]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_51]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) ~[Essential_1-3-6-2_forge_1-12-2.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) ~[Essential_1-3-6-2_forge_1-12-2.jar:?]
+	... 7 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124) ~[stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:328) ~[stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) ~[stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) ~[stage2.forge_1.12.2.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) ~[stage1.jar:9]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) ~[stage1.jar:9]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_51]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) ~[Essential_1-3-6-2_forge_1-12-2.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) ~[Essential_1-3-6-2_forge_1-12-2.jar:?]
+	... 7 more
+Caused by: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:49) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at java.lang.SecurityManager.checkExit(SecurityManager.java:761) ~[?:1.8.0_51]
+	at java.lang.Runtime.exit(Runtime.java:107) ~[?:1.8.0_51]
+	at java.lang.System.exit(System.java:971) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) ~[launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124) ~[stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:328) ~[stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) ~[stage2.forge_1.12.2.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) ~[stage2.forge_1.12.2.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) ~[stage1.jar:9]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) ~[stage1.jar:9]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_51]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) ~[Essential_1-3-6-2_forge_1-12-2.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) ~[Essential_1-3-6-2_forge_1-12-2.jar:?]
+	... 7 more
+[05:06:37] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[05:06:37] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:49)
+[05:06:37] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.SecurityManager.checkExit(SecurityManager.java:761)
+[05:06:37] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.Runtime.exit(Runtime.java:107)
+[05:06:37] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.System.exit(System.java:971)
+[05:06:37] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[05:06:37] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
